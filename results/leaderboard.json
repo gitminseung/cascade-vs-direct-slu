@@ -1,0 +1,58 @@
+[
+ {
+  "system": "cascade_whisper-large-v3-turbo",
+  "track": "Cascade",
+  "description": "Whisper-large-v3-turbo → KLUE-RoBERTa",
+  "reference_only": false,
+  "n": 695,
+  "accuracy": 0.8532,
+  "macro_f1": 0.8066,
+  "ece": 0.0244,
+  "latency_ms_median": 245.0,
+  "latency_ms_p90": 298.3,
+  "cer": 0.0528,
+  "rank": 1
+ },
+ {
+  "system": "cascade_whisper-small",
+  "track": "Cascade",
+  "description": "Whisper-small → KLUE-RoBERTa",
+  "reference_only": false,
+  "n": 695,
+  "accuracy": 0.8273,
+  "macro_f1": 0.7814,
+  "ece": 0.0361,
+  "latency_ms_median": 208.6,
+  "latency_ms_p90": 323.3,
+  "cer": 0.0995,
+  "rank": 2
+ },
+ {
+  "system": "direct_whisper-small",
+  "track": "Direct",
+  "description": "Whisper-small encoder + attentive pooling",
+  "reference_only": false,
+  "n": 695,
+  "accuracy": 0.6633,
+  "macro_f1": 0.5811,
+  "ece": 0.0728,
+  "latency_ms_median": 39.9,
+  "latency_ms_p90": 42.7,
+  "cer": null,
+  "rank": 3
+ },
+ {
+  "system": "oracle_text",
+  "track": "Oracle",
+  "description": "Gold transcript → KLUE-RoBERTa",
+  "reference_only": true,
+  "n": 695,
+  "accuracy": 0.8791,
+  "macro_f1": 0.8234,
+  "ece": 0.0377,
+  "latency_ms_median": 9.1,
+  "latency_ms_p90": 10.8,
+  "cer": null,
+  "rank": null
+ }
+]

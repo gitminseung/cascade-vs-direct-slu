@@ -1,0 +1,13 @@
+{
+ "system": "cascade_whisper-small",
+ "track": "Cascade",
+ "description": "Whisper-small → KLUE-RoBERTa",
+ "reference_only": false,
+ "n": 695,
+ "accuracy": 0.8273,
+ "macro_f1": 0.7814,
+ "ece": 0.0361,
+ "latency_ms_median": 208.6,
+ "latency_ms_p90": 323.3,
+ "cer": 0.0995
+}

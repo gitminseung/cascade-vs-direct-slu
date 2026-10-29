@@ -1,0 +1,13 @@
+{
+ "system": "cascade_whisper-large-v3-turbo",
+ "track": "Cascade",
+ "description": "Whisper-large-v3-turbo → KLUE-RoBERTa",
+ "reference_only": false,
+ "n": 695,
+ "accuracy": 0.8532,
+ "macro_f1": 0.8066,
+ "ece": 0.0244,
+ "latency_ms_median": 245.0,
+ "latency_ms_p90": 298.3,
+ "cer": 0.0528
+}

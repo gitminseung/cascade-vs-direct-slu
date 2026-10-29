@@ -1,0 +1,13 @@
+{
+ "system": "oracle_text",
+ "track": "Oracle",
+ "description": "Gold transcript → KLUE-RoBERTa",
+ "reference_only": true,
+ "n": 695,
+ "accuracy": 0.8791,
+ "macro_f1": 0.8234,
+ "ece": 0.0377,
+ "latency_ms_median": 9.1,
+ "latency_ms_p90": 10.8,
+ "cer": null
+}

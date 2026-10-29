@@ -1,0 +1,695 @@
+{"id": "15247", "audio": "data/eval/audio/15247.flac", "utt": "페이스북 한테 상태 제출 좀 해줘", "intent": "social_post", "scenario": "social", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.7}
+{"id": "6778", "audio": "data/eval/audio/6778.flac", "utt": "오늘 무슨 이벤트 있어", "intent": "calendar_query", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 4.38}
+{"id": "11440", "audio": "data/eval/audio/11440.flac", "utt": "마지막 다음 편 재생", "intent": "play_podcasts", "scenario": "play", "speaker": "59303adcdb68d70001ecd942", "duration": 2.34}
+{"id": "6751", "audio": "data/eval/audio/6751.flac", "utt": "나의 다음 미팅 언제야", "intent": "calendar_query", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 4.8}
+{"id": "11509", "audio": "data/eval/audio/11509.flac", "utt": "최신 에피소드 보여줘", "intent": "play_podcasts", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 7.08}
+{"id": "7753", "audio": "data/eval/audio/7753.flac", "utt": "나 월요일에 뭐 해야 되", "intent": "calendar_query", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.22}
+{"id": "10162", "audio": "data/eval/audio/10162.flac", "utt": "떡갈비 레시피 가져와줘", "intent": "cooking_recipe", "scenario": "cooking", "speaker": "59303adcdb68d70001ecd942", "duration": 2.46}
+{"id": "16478", "audio": "data/eval/audio/16478.flac", "utt": "현지한테 온 이메일 확인해줘", "intent": "email_query", "scenario": "email", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.48}
+{"id": "6035", "audio": "data/eval/audio/6035.flac", "utt": "시계 열어", "intent": "alarm_set", "scenario": "alarm", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 1.26}
+{"id": "10196", "audio": "data/eval/audio/10196.flac", "utt": "멕시코 음식 저녁 식사 아이디어 좀 필요해", "intent": "cooking_recipe", "scenario": "cooking", "speaker": "5cd875edf7470b0016e9ca83", "duration": 4.02}
+{"id": "15174", "audio": "data/eval/audio/15174.flac", "utt": "내 페이스북 에서 새 댓글들 찾아봐", "intent": "social_query", "scenario": "social", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.54}
+{"id": "2323", "audio": "data/eval/audio/2323.flac", "utt": "스피커 음소거해줘", "intent": "audio_volume_mute", "scenario": "audio", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.04}
+{"id": "15017", "audio": "data/eval/audio/15017.flac", "utt": "오늘 밤 어떤 영화가 상영할지 말해줄 수 있어", "intent": "recommendation_movies", "scenario": "recommendation", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.54}
+{"id": "13470", "audio": "data/eval/audio/13470.flac", "utt": "로보틱에 관한 세가지 법에 대해 어떻게 생각해", "intent": "general_quirky", "scenario": "general", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.62}
+{"id": "6356", "audio": "data/eval/audio/6356.flac", "utt": "나 토요일 에 술집 초대 받았어", "intent": "general_quirky", "scenario": "general", "speaker": "652aede39bf7798b707544c9", "duration": 6.06}
+{"id": "7665", "audio": "data/eval/audio/7665.flac", "utt": "김지영 하고 진희 같이 점심 식사 추가하고 싶어", "intent": "calendar_set", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 4.44}
+{"id": "15910", "audio": "data/eval/audio/15910.flac", "utt": "지난 열두 시간 동안 이메일 받은 거 확인해봐", "intent": "email_query", "scenario": "email", "speaker": "59303adcdb68d70001ecd942", "duration": 3.78}
+{"id": "12322", "audio": "data/eval/audio/12322.flac", "utt": "택시 예약해줘", "intent": "transport_taxi", "scenario": "transport", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.1}
+{"id": "10152", "audio": "data/eval/audio/10152.flac", "utt": "핫도그 만드는 요리법 찾아줘", "intent": "cooking_recipe", "scenario": "cooking", "speaker": "652aede39bf7798b707544c9", "duration": 4.98}
+{"id": "4603", "audio": "data/eval/audio/4603.flac", "utt": "하늘이 흐려질까", "intent": "weather_query", "scenario": "weather", "speaker": "59303adcdb68d70001ecd942", "duration": 1.8}
+{"id": "6952", "audio": "data/eval/audio/6952.flac", "utt": "캘린더 깨끗이 지워", "intent": "calendar_remove", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.24}
+{"id": "1125", "audio": "data/eval/audio/1125.flac", "utt": "오늘 날짜", "intent": "datetime_query", "scenario": "datetime", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.1}
+{"id": "15157", "audio": "data/eval/audio/15157.flac", "utt": "엄마 가 마지막에 한 말이 뭐였지", "intent": "social_query", "scenario": "social", "speaker": "59303adcdb68d70001ecd942", "duration": 3.18}
+{"id": "2641", "audio": "data/eval/audio/2641.flac", "utt": "공백 관련 새로운게 뭐 있어", "intent": "news_query", "scenario": "news", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.7}
+{"id": "12134", "audio": "data/eval/audio/12134.flac", "utt": "강원도 가는 다음 기차 는 언제야", "intent": "transport_query", "scenario": "transport", "speaker": "652aede39bf7798b707544c9", "duration": 5.94}
+{"id": "9798", "audio": "data/eval/audio/9798.flac", "utt": "라스트 킹덤 계속 읽어줘", "intent": "play_audiobook", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.06}
+{"id": "13455", "audio": "data/eval/audio/13455.flac", "utt": "이 질문의 대한 답을 어떻게 찾아야 하는지 알려줄래", "intent": "general_quirky", "scenario": "general", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.32}
+{"id": "14744", "audio": "data/eval/audio/14744.flac", "utt": "직화 오븐은 어떤 종류의 도구이며 어떻게 사용해", "intent": "general_quirky", "scenario": "general", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.38}
+{"id": "11300", "audio": "data/eval/audio/11300.flac", "utt": "다음 편 으로 진행", "intent": "play_podcasts", "scenario": "play", "speaker": "59303adcdb68d70001ecd942", "duration": 2.16}
+{"id": "14291", "audio": "data/eval/audio/14291.flac", "utt": "지구의 여러 식물을 보여줘", "intent": "qa_factoid", "scenario": "qa", "speaker": "652aede39bf7798b707544c9", "duration": 5.04}
+{"id": "835", "audio": "data/eval/audio/835.flac", "utt": "최근 충무로 가십 뭐 있니", "intent": "news_query", "scenario": "news", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.7}
+{"id": "4942", "audio": "data/eval/audio/4942.flac", "utt": "오늘 주식 시장 업데이트 보내줘", "intent": "qa_stock", "scenario": "qa", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.06}
+{"id": "15778", "audio": "data/eval/audio/15778.flac", "utt": "현지에게 나 늦을 테니 저녁 함께 먹게 기다리지 말라고 이메일 보내", "intent": "email_sendemail", "scenario": "email", "speaker": "59303adcdb68d70001ecd942", "duration": 6.12}
+{"id": "3082", "audio": "data/eval/audio/3082.flac", "utt": "피자 두 판 시켜줘", "intent": "takeaway_order", "scenario": "takeaway", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.6}
+{"id": "10412", "audio": "data/eval/audio/10412.flac", "utt": "부루마블 하자", "intent": "play_game", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 4.08}
+{"id": "12891", "audio": "data/eval/audio/12891.flac", "utt": "경상도에서 충청도 가는 통근 열차 구해줘", "intent": "transport_ticket", "scenario": "transport", "speaker": "65125837372ffeccb5f91ac4", "duration": 4.86}
+{"id": "2582", "audio": "data/eval/audio/2582.flac", "utt": "가수 이름 알려줘", "intent": "music_query", "scenario": "music", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.82}
+{"id": "3261", "audio": "data/eval/audio/3261.flac", "utt": "현재 중부 시간", "intent": "datetime_query", "scenario": "datetime", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.36}
+{"id": "8697", "audio": "data/eval/audio/8697.flac", "utt": "삼월 이십일일 열시에 재호랑 미팅 추가", "intent": "calendar_set", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.98}
+{"id": "476", "audio": "data/eval/audio/476.flac", "utt": "네가 할 수 없는 일이 뭐야", "intent": "general_quirky", "scenario": "general", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.7}
+{"id": "8848", "audio": "data/eval/audio/8848.flac", "utt": "오늘 매우 더울테니까 내 우산을 가져가라고 말해줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.92}
+{"id": "13576", "audio": "data/eval/audio/13576.flac", "utt": "다음 여행은 언제인가요", "intent": "general_quirky", "scenario": "general", "speaker": "652aede39bf7798b707544c9", "duration": 5.22}
+{"id": "7310", "audio": "data/eval/audio/7310.flac", "utt": "오늘 내 일정 뭐 있어", "intent": "calendar_query", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 4.5}
+{"id": "2978", "audio": "data/eval/audio/2978.flac", "utt": "조명 밝기 낮춰줘", "intent": "iot_hue_lightdim", "scenario": "iot", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.54}
+{"id": "10929", "audio": "data/eval/audio/10929.flac", "utt": "내 목록 줘", "intent": "lists_query", "scenario": "lists", "speaker": "652aede39bf7798b707544c9", "duration": 5.52}
+{"id": "7871", "audio": "data/eval/audio/7871.flac", "utt": "이번 주 금요일 미팅 누가 참석할 거야", "intent": "calendar_query", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.24}
+{"id": "1566", "audio": "data/eval/audio/1566.flac", "utt": "플레이리스트 에서 음악 재생", "intent": "play_music", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 5.34}
+{"id": "4483", "audio": "data/eval/audio/4483.flac", "utt": "오늘 옷을 겹겹으로 입어야 할까", "intent": "weather_query", "scenario": "weather", "speaker": "652aede39bf7798b707544c9", "duration": 5.46}
+{"id": "345", "audio": "data/eval/audio/345.flac", "utt": "내일 바깥 기온 은 어때", "intent": "weather_query", "scenario": "weather", "speaker": "59303adcdb68d70001ecd942", "duration": 2.52}
+{"id": "16081", "audio": "data/eval/audio/16081.flac", "utt": "내 매니저에게 이메일 보내", "intent": "email_sendemail", "scenario": "email", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.16}
+{"id": "8928", "audio": "data/eval/audio/8928.flac", "utt": "미팅들 언제야", "intent": "calendar_query", "scenario": "calendar", "speaker": "59303adcdb68d70001ecd942", "duration": 1.8}
+{"id": "6823", "audio": "data/eval/audio/6823.flac", "utt": "이번 주말 야외 영화 보러 가는거 알려줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 5.76}
+{"id": "11906", "audio": "data/eval/audio/11906.flac", "utt": "이번 주말 내 지역에서 열리는 행사들을 알려줘", "intent": "recommendation_events", "scenario": "recommendation", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.3}
+{"id": "5267", "audio": "data/eval/audio/5267.flac", "utt": "최근에 추가한 플레이리스트 재생 시작", "intent": "play_music", "scenario": "play", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.54}
+{"id": "1687", "audio": "data/eval/audio/1687.flac", "utt": "내일의 기온 이 더운게 맞을까 아닐까", "intent": "weather_query", "scenario": "weather", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.02}
+{"id": "12748", "audio": "data/eval/audio/12748.flac", "utt": "기차 표 한 장 사줘", "intent": "transport_ticket", "scenario": "transport", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.74}
+{"id": "9215", "audio": "data/eval/audio/9215.flac", "utt": "iheartradio 켜서 록 음악 틀어", "intent": "play_radio", "scenario": "play", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.36}
+{"id": "4827", "audio": "data/eval/audio/4827.flac", "utt": "불 초록색 으로 바꿔줄 수 있어", "intent": "iot_hue_lightchange", "scenario": "iot", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.34}
+{"id": "9736", "audio": "data/eval/audio/9736.flac", "utt": "최근 추가한 오디오북 틀어", "intent": "play_audiobook", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.82}
+{"id": "17037", "audio": "data/eval/audio/17037.flac", "utt": "연락자의 메일 i. d.를 줘봐", "intent": "email_querycontact", "scenario": "email", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.64}
+{"id": "6381", "audio": "data/eval/audio/6381.flac", "utt": "곧 출시되는 좋은 영화 에는 어떤게 있어", "intent": "general_quirky", "scenario": "general", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.48}
+{"id": "8788", "audio": "data/eval/audio/8788.flac", "utt": "특별한 날들에 어떤 일이 일어나는지 찾아봐", "intent": "recommendation_events", "scenario": "recommendation", "speaker": "652aede39bf7798b707544c9", "duration": 7.86}
+{"id": "11079", "audio": "data/eval/audio/11079.flac", "utt": "목록 삭제", "intent": "lists_remove", "scenario": "lists", "speaker": "652aede39bf7798b707544c9", "duration": 7.08}
+{"id": "14868", "audio": "data/eval/audio/14868.flac", "utt": "염소자리 유명인들 찾아줘", "intent": "qa_factoid", "scenario": "qa", "speaker": "59303adcdb68d70001ecd942", "duration": 2.88}
+{"id": "7755", "audio": "data/eval/audio/7755.flac", "utt": "내 달력 이벤트 반복해", "intent": "calendar_set", "scenario": "calendar", "speaker": "646019be07273b749d20d0da", "duration": 3.06}
+{"id": "13914", "audio": "data/eval/audio/13914.flac", "utt": "달러 환율을 원화로 알려줄 수 있어", "intent": "qa_factoid", "scenario": "qa", "speaker": "652aede39bf7798b707544c9", "duration": 5.22}
+{"id": "1122", "audio": "data/eval/audio/1122.flac", "utt": "지금 악뮤 의 다이노소어 틀어", "intent": "play_music", "scenario": "play", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.46}
+{"id": "16090", "audio": "data/eval/audio/16090.flac", "utt": "지난 오 분 동안 이메일 온 게 있니", "intent": "email_query", "scenario": "email", "speaker": "59303adcdb68d70001ecd942", "duration": 2.94}
+{"id": "5100", "audio": "data/eval/audio/5100.flac", "utt": "요가 알람들 취소해", "intent": "alarm_remove", "scenario": "alarm", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.52}
+{"id": "3402", "audio": "data/eval/audio/3402.flac", "utt": "다음 주 날씨 어때", "intent": "weather_query", "scenario": "weather", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.1}
+{"id": "15379", "audio": "data/eval/audio/15379.flac", "utt": "내 페이스북에 이 사진 올려", "intent": "social_post", "scenario": "social", "speaker": "59303adcdb68d70001ecd942", "duration": 2.64}
+{"id": "7999", "audio": "data/eval/audio/7999.flac", "utt": "삼월 칠일 로 일정 잡은 학부모 교사 상담 삭제해주세요", "intent": "calendar_remove", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 4.62}
+{"id": "3876", "audio": "data/eval/audio/3876.flac", "utt": "곧 샌들 신을만한 날씨 가 올까", "intent": "weather_query", "scenario": "weather", "speaker": "59303adcdb68d70001ecd942", "duration": 3.36}
+{"id": "7727", "audio": "data/eval/audio/7727.flac", "utt": "월요일 에 이벤트 설정한 생일 있어", "intent": "calendar_set", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 6.18}
+{"id": "9492", "audio": "data/eval/audio/9492.flac", "utt": "현재 플레이리스트 틀어", "intent": "play_music", "scenario": "play", "speaker": "59303adcdb68d70001ecd942", "duration": 2.46}
+{"id": "237", "audio": "data/eval/audio/237.flac", "utt": "아침 에 일어나기 알람 설정했나", "intent": "alarm_query", "scenario": "alarm", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.82}
+{"id": "9453", "audio": "data/eval/audio/9453.flac", "utt": "파워 f. m. 라디오 재생해줘", "intent": "play_radio", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 4.92}
+{"id": "1771", "audio": "data/eval/audio/1771.flac", "utt": "방탄소년단 재생", "intent": "play_music", "scenario": "play", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.02}
+{"id": "17009", "audio": "data/eval/audio/17009.flac", "utt": "내 수신함 체크해줘", "intent": "email_query", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 6.0}
+{"id": "11281", "audio": "data/eval/audio/11281.flac", "utt": "팟캐스트 에서 한 에피소드 앞으로 가 줄 수 있어", "intent": "play_podcasts", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 4.56}
+{"id": "14460", "audio": "data/eval/audio/14460.flac", "utt": "ipad air 기능", "intent": "general_quirky", "scenario": "general", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.18}
+{"id": "9040", "audio": "data/eval/audio/9040.flac", "utt": "칠월 삼일 일정 모두 지워줘", "intent": "calendar_remove", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.7}
+{"id": "3200", "audio": "data/eval/audio/3200.flac", "utt": "그 토픽 관련 어떤 새로운 소식이라도 있으면 나한테 말해줘", "intent": "news_query", "scenario": "news", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.74}
+{"id": "7945", "audio": "data/eval/audio/7945.flac", "utt": "십일월 이십일 에 뭐 있어", "intent": "calendar_query", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.18}
+{"id": "7065", "audio": "data/eval/audio/7065.flac", "utt": "오늘 내 캘린더 에 어떤 이벤트 있어", "intent": "calendar_query", "scenario": "calendar", "speaker": "646019be07273b749d20d0da", "duration": 5.28}
+{"id": "4497", "audio": "data/eval/audio/4497.flac", "utt": "음소거로 설정", "intent": "audio_volume_mute", "scenario": "audio", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.26}
+{"id": "13624", "audio": "data/eval/audio/13624.flac", "utt": "몇 시인지 말해봐", "intent": "datetime_query", "scenario": "datetime", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.04}
+{"id": "7260", "audio": "data/eval/audio/7260.flac", "utt": "내일 오후 세시 미팅 리마인더 설정", "intent": "calendar_set", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.48}
+{"id": "14069", "audio": "data/eval/audio/14069.flac", "utt": "기아차 주가 알려줘", "intent": "qa_stock", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.46}
+{"id": "13875", "audio": "data/eval/audio/13875.flac", "utt": "김영삼 은 몇 살이야", "intent": "qa_factoid", "scenario": "qa", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.62}
+{"id": "13812", "audio": "data/eval/audio/13812.flac", "utt": "표고 버섯 에 관해 말해줘", "intent": "qa_definition", "scenario": "qa", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.0}
+{"id": "58", "audio": "data/eval/audio/58.flac", "utt": "광장시장 근처에서 내 태국 포장음식 찾아", "intent": "takeaway_query", "scenario": "takeaway", "speaker": "5cd875edf7470b0016e9ca83", "duration": 4.92}
+{"id": "756", "audio": "data/eval/audio/756.flac", "utt": "에이아이 스마트 플러그 꺼줄 수 있어", "intent": "iot_wemo_off", "scenario": "iot", "speaker": "59303adcdb68d70001ecd942", "duration": 3.12}
+{"id": "11020", "audio": "data/eval/audio/11020.flac", "utt": "식료품을 구입 목록에서 삭제하세요", "intent": "lists_remove", "scenario": "lists", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.96}
+{"id": "8384", "audio": "data/eval/audio/8384.flac", "utt": "오늘 아침 밀린 일정들 있나", "intent": "calendar_query", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.94}
+{"id": "12791", "audio": "data/eval/audio/12791.flac", "utt": "내 근처 교통 상황 어때", "intent": "transport_traffic", "scenario": "transport", "speaker": "652aede39bf7798b707544c9", "duration": 6.6}
+{"id": "7595", "audio": "data/eval/audio/7595.flac", "utt": "쿠키 타이머 오분 맞춰 줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 5.94}
+{"id": "9287", "audio": "data/eval/audio/9287.flac", "utt": "라디오 켜", "intent": "play_radio", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.86}
+{"id": "16305", "audio": "data/eval/audio/16305.flac", "utt": "이메일을 보내", "intent": "email_sendemail", "scenario": "email", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.86}
+{"id": "11548", "audio": "data/eval/audio/11548.flac", "utt": "팟캐스트 네트워크", "intent": "play_podcasts", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.04}
+{"id": "9281", "audio": "data/eval/audio/9281.flac", "utt": "그 라디오 채널 듣고 싶어", "intent": "play_radio", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.66}
+{"id": "11745", "audio": "data/eval/audio/11745.flac", "utt": "이병헌 나오는 새 영화 상영하는 가장 가까운 영화관이 어디야", "intent": "recommendation_movies", "scenario": "recommendation", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 5.16}
+{"id": "10817", "audio": "data/eval/audio/10817.flac", "utt": "목록 열어서 목록 삭제해", "intent": "lists_remove", "scenario": "lists", "speaker": "652aede39bf7798b707544c9", "duration": 6.84}
+{"id": "15540", "audio": "data/eval/audio/15540.flac", "utt": "페이스북 에 진영 이가 새로운 걸 게시했었니", "intent": "social_query", "scenario": "social", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.8}
+{"id": "15930", "audio": "data/eval/audio/15930.flac", "utt": "만약에 옥션 에서 온 새로운 아무 메일이 있다면 나에게 알려줘", "intent": "email_query", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 9.24}
+{"id": "15134", "audio": "data/eval/audio/15134.flac", "utt": "포스코 주식은", "intent": "qa_stock", "scenario": "qa", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.14}
+{"id": "12575", "audio": "data/eval/audio/12575.flac", "utt": "군산 가는 기차 표 한 장 예매해", "intent": "transport_ticket", "scenario": "transport", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.64}
+{"id": "16833", "audio": "data/eval/audio/16833.flac", "utt": "새 이메일 온 게 있나", "intent": "email_query", "scenario": "email", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.86}
+{"id": "6259", "audio": "data/eval/audio/6259.flac", "utt": "오늘 날씨가 화창해", "intent": "general_quirky", "scenario": "general", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.06}
+{"id": "15478", "audio": "data/eval/audio/15478.flac", "utt": "트위터 통해서 이마트 고객 서비스 에 연락해", "intent": "social_post", "scenario": "social", "speaker": "65125837372ffeccb5f91ac4", "duration": 4.38}
+{"id": "3954", "audio": "data/eval/audio/3954.flac", "utt": "이 노래 다음에 봄날 틀어줘", "intent": "play_music", "scenario": "play", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.94}
+{"id": "5684", "audio": "data/eval/audio/5684.flac", "utt": "파티 노래들 틀어", "intent": "play_music", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.98}
+{"id": "13658", "audio": "data/eval/audio/13658.flac", "utt": "김서형 은 몇 살이야", "intent": "qa_factoid", "scenario": "qa", "speaker": "652aede39bf7798b707544c9", "duration": 6.54}
+{"id": "7969", "audio": "data/eval/audio/7969.flac", "utt": "오늘 밤 누가 왜 영화관에 있어", "intent": "recommendation_events", "scenario": "recommendation", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.82}
+{"id": "7035", "audio": "data/eval/audio/7035.flac", "utt": "캘린더에서 이 달 이벤트 전부 삭제", "intent": "calendar_remove", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 5.76}
+{"id": "7357", "audio": "data/eval/audio/7357.flac", "utt": "내 캘린더 삼월 일정 리스트 뭐야", "intent": "calendar_query", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 8.58}
+{"id": "10689", "audio": "data/eval/audio/10689.flac", "utt": "삼 번 항목 삭제", "intent": "lists_remove", "scenario": "lists", "speaker": "652aede39bf7798b707544c9", "duration": 4.5}
+{"id": "10022", "audio": "data/eval/audio/10022.flac", "utt": "어떻게 요리하는건지 구글에서 보여줘", "intent": "cooking_recipe", "scenario": "cooking", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.18}
+{"id": "8723", "audio": "data/eval/audio/8723.flac", "utt": "이천십칠년 사월 일일 에 내 가 일정이 없다고 내 달력 이 말하니", "intent": "calendar_query", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 5.1}
+{"id": "11214", "audio": "data/eval/audio/11214.flac", "utt": "목록 체크해", "intent": "lists_query", "scenario": "lists", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.3}
+{"id": "2797", "audio": "data/eval/audio/2797.flac", "utt": "스피커 무음", "intent": "audio_volume_mute", "scenario": "audio", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.62}
+{"id": "2161", "audio": "data/eval/audio/2161.flac", "utt": "노래 반복 해", "intent": "music_settings", "scenario": "music", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.92}
+{"id": "16588", "audio": "data/eval/audio/16588.flac", "utt": "세 달 동안 내가 연락안 한 연락처들 삭제해 줘", "intent": "email_querycontact", "scenario": "email", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.68}
+{"id": "4835", "audio": "data/eval/audio/4835.flac", "utt": "한국일보 뉴스 보여줘", "intent": "news_query", "scenario": "news", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.7}
+{"id": "4094", "audio": "data/eval/audio/4094.flac", "utt": "오전 여덟시 에 알람 켜줘", "intent": "alarm_set", "scenario": "alarm", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.66}
+{"id": "5882", "audio": "data/eval/audio/5882.flac", "utt": "특정 단어의 의미", "intent": "general_quirky", "scenario": "general", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.22}
+{"id": "1271", "audio": "data/eval/audio/1271.flac", "utt": "오늘 세계에서 무슨 일이 일어나고 있어", "intent": "news_query", "scenario": "news", "speaker": "59303adcdb68d70001ecd942", "duration": 3.0}
+{"id": "5735", "audio": "data/eval/audio/5735.flac", "utt": "제시 노래 다시 틀어줘", "intent": "play_music", "scenario": "play", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.04}
+{"id": "9454", "audio": "data/eval/audio/9454.flac", "utt": "쿨 f. m. 에서 라디오 음악 좀 틀어줘", "intent": "play_radio", "scenario": "play", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 7.02}
+{"id": "11294", "audio": "data/eval/audio/11294.flac", "utt": "나의 팟캐스트 찾아", "intent": "play_podcasts", "scenario": "play", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.1}
+{"id": "2495", "audio": "data/eval/audio/2495.flac", "utt": "뉴스 보여줘", "intent": "news_query", "scenario": "news", "speaker": "652aede39bf7798b707544c9", "duration": 3.96}
+{"id": "15973", "audio": "data/eval/audio/15973.flac", "utt": "윤재희에게 예산 관련된 이메일을 뭐라도 받았는지 확인하고 봐", "intent": "email_query", "scenario": "email", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 9.9}
+{"id": "16586", "audio": "data/eval/audio/16586.flac", "utt": "회신해", "intent": "email_sendemail", "scenario": "email", "speaker": "5cd875edf7470b0016e9ca83", "duration": 0.96}
+{"id": "5604", "audio": "data/eval/audio/5604.flac", "utt": "인디 음악 플레이리스트 셔플 해서 재생해", "intent": "play_music", "scenario": "play", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.54}
+{"id": "147", "audio": "data/eval/audio/147.flac", "utt": "재즈 듣고 싶어", "intent": "play_music", "scenario": "play", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.76}
+{"id": "9442", "audio": "data/eval/audio/9442.flac", "utt": "멜론 열고 최고 히트송 틀어줘", "intent": "play_radio", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 5.64}
+{"id": "8122", "audio": "data/eval/audio/8122.flac", "utt": "점심 이벤트 를 매주 금요일 에 반복하도록 변경해줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "59303adcdb68d70001ecd942", "duration": 4.56}
+{"id": "9733", "audio": "data/eval/audio/9733.flac", "utt": "중단했던 곳부터 다빈치 코드 열어줘", "intent": "play_audiobook", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.36}
+{"id": "4939", "audio": "data/eval/audio/4939.flac", "utt": "불 꺼 줘", "intent": "iot_hue_lightoff", "scenario": "iot", "speaker": "652aede39bf7798b707544c9", "duration": 5.94}
+{"id": "8655", "audio": "data/eval/audio/8655.flac", "utt": "부산 대연동 진호의 졸업 오월 오일 오후 세 시 시작 이벤트 추가해", "intent": "calendar_set", "scenario": "calendar", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 10.32}
+{"id": "6482", "audio": "data/eval/audio/6482.flac", "utt": "올리 나 오늘 사고쳤어", "intent": "general_quirky", "scenario": "general", "speaker": "652aede39bf7798b707544c9", "duration": 6.48}
+{"id": "353", "audio": "data/eval/audio/353.flac", "utt": "삼월 이십이일 무슨 요일이야", "intent": "datetime_query", "scenario": "datetime", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.52}
+{"id": "9978", "audio": "data/eval/audio/9978.flac", "utt": "이태리 요리 어떻게 하는지 영상 보여줘", "intent": "cooking_recipe", "scenario": "cooking", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.78}
+{"id": "9428", "audio": "data/eval/audio/9428.flac", "utt": "라디오 에서 축구 게임 틀어", "intent": "play_radio", "scenario": "play", "speaker": "59303adcdb68d70001ecd942", "duration": 2.94}
+{"id": "5788", "audio": "data/eval/audio/5788.flac", "utt": "밖은 추워", "intent": "weather_query", "scenario": "weather", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 3.12}
+{"id": "5461", "audio": "data/eval/audio/5461.flac", "utt": "오늘밤 에 장갑 챙길까", "intent": "weather_query", "scenario": "weather", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.82}
+{"id": "7977", "audio": "data/eval/audio/7977.flac", "utt": "오늘로 설정된 리마인더 있어", "intent": "calendar_query", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.0}
+{"id": "12978", "audio": "data/eval/audio/12978.flac", "utt": "검색 센터", "intent": "qa_maths", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.98}
+{"id": "15057", "audio": "data/eval/audio/15057.flac", "utt": "알베르트 아인슈타인 은 상대성 이론 생각해냈을 때 몇 살이었어", "intent": "qa_factoid", "scenario": "qa", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 6.0}
+{"id": "7112", "audio": "data/eval/audio/7112.flac", "utt": "다음 주 내 상사 와의 미팅 언제야", "intent": "calendar_query", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 6.42}
+{"id": "2421", "audio": "data/eval/audio/2421.flac", "utt": "조선일보 기사 알려줘", "intent": "news_query", "scenario": "news", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.4}
+{"id": "15245", "audio": "data/eval/audio/15245.flac", "utt": "진영 에게 포스트 해줘", "intent": "social_post", "scenario": "social", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.88}
+{"id": "10521", "audio": "data/eval/audio/10521.flac", "utt": "오래된 영어 노래 목록 지워", "intent": "lists_remove", "scenario": "lists", "speaker": "652aede39bf7798b707544c9", "duration": 4.74}
+{"id": "11305", "audio": "data/eval/audio/11305.flac", "utt": "최신 주책남들 팟캐스트 틀어줘", "intent": "play_podcasts", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 5.76}
+{"id": "3609", "audio": "data/eval/audio/3609.flac", "utt": "커피 한 잔 만들어주세요", "intent": "iot_coffee", "scenario": "iot", "speaker": "59303adcdb68d70001ecd942", "duration": 2.82}
+{"id": "1914", "audio": "data/eval/audio/1914.flac", "utt": "다섯 시 후에 알려줘", "intent": "alarm_set", "scenario": "alarm", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.64}
+{"id": "14755", "audio": "data/eval/audio/14755.flac", "utt": "자유여신상이 어디에 있지", "intent": "qa_factoid", "scenario": "qa", "speaker": "652aede39bf7798b707544c9", "duration": 5.22}
+{"id": "541", "audio": "data/eval/audio/541.flac", "utt": "음악 바로 틀어줘", "intent": "play_music", "scenario": "play", "speaker": "59303adcdb68d70001ecd942", "duration": 2.04}
+{"id": "15030", "audio": "data/eval/audio/15030.flac", "utt": "올리 엉망진창 이라는 단어의 정의가 뭐야", "intent": "qa_definition", "scenario": "qa", "speaker": "652aede39bf7798b707544c9", "duration": 6.24}
+{"id": "3941", "audio": "data/eval/audio/3941.flac", "utt": "나 이 노래 좋으니까 기억해 줬으면 좋겠어", "intent": "music_likeness", "scenario": "music", "speaker": "59303adcdb68d70001ecd942", "duration": 3.42}
+{"id": "10555", "audio": "data/eval/audio/10555.flac", "utt": "내 할 일 목록 다섯 번째 항목 체크해줘", "intent": "lists_query", "scenario": "lists", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.3}
+{"id": "7007", "audio": "data/eval/audio/7007.flac", "utt": "내일 희선이랑 약속 세팅해", "intent": "calendar_set", "scenario": "calendar", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.42}
+{"id": "7174", "audio": "data/eval/audio/7174.flac", "utt": "취소", "intent": "calendar_remove", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.08}
+{"id": "14866", "audio": "data/eval/audio/14866.flac", "utt": "세계 에 강이 몇 개나 있어", "intent": "qa_factoid", "scenario": "qa", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.86}
+{"id": "12217", "audio": "data/eval/audio/12217.flac", "utt": "비행기 표 예약해줘", "intent": "transport_ticket", "scenario": "transport", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.12}
+{"id": "6841", "audio": "data/eval/audio/6841.flac", "utt": "내일 오후 아홉시 무슨 미팅 있어", "intent": "calendar_query", "scenario": "calendar", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.88}
+{"id": "2919", "audio": "data/eval/audio/2919.flac", "utt": "유투브에 새로운 k. b. s. 비디오 올라온 거 있어", "intent": "news_query", "scenario": "news", "speaker": "652aede39bf7798b707544c9", "duration": 6.66}
+{"id": "5107", "audio": "data/eval/audio/5107.flac", "utt": "구글 재생목록 섞어줘", "intent": "music_settings", "scenario": "music", "speaker": "652aede39bf7798b707544c9", "duration": 4.5}
+{"id": "2763", "audio": "data/eval/audio/2763.flac", "utt": "시간 보여줘", "intent": "datetime_query", "scenario": "datetime", "speaker": "652aede39bf7798b707544c9", "duration": 3.9}
+{"id": "148", "audio": "data/eval/audio/148.flac", "utt": "올리 나 재즈 듣는 것 좋아해", "intent": "play_music", "scenario": "play", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.18}
+{"id": "5621", "audio": "data/eval/audio/5621.flac", "utt": "지금 기온", "intent": "weather_query", "scenario": "weather", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.12}
+{"id": "2620", "audio": "data/eval/audio/2620.flac", "utt": "청소기 돌려줘", "intent": "iot_cleaning", "scenario": "iot", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.16}
+{"id": "109", "audio": "data/eval/audio/109.flac", "utt": "겨울잠 틀어", "intent": "play_music", "scenario": "play", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.76}
+{"id": "5989", "audio": "data/eval/audio/5989.flac", "utt": "지금 커피 좀 마시고 싶어", "intent": "iot_coffee", "scenario": "iot", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.04}
+{"id": "11333", "audio": "data/eval/audio/11333.flac", "utt": "이승환 의 모든 노래 정리해서 재생해", "intent": "play_music", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 7.68}
+{"id": "15381", "audio": "data/eval/audio/15381.flac", "utt": "월드비전 트윗 해 그리고 내 앱 다운된다고 그들에게 알려", "intent": "social_post", "scenario": "social", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.86}
+{"id": "12307", "audio": "data/eval/audio/12307.flac", "utt": "화요일 에 목포 로 가는 기차 표 두 장 검색해줘", "intent": "transport_ticket", "scenario": "transport", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 7.86}
+{"id": "15221", "audio": "data/eval/audio/15221.flac", "utt": "유튜브에 동영상 올려", "intent": "social_post", "scenario": "social", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.14}
+{"id": "6425", "audio": "data/eval/audio/6425.flac", "utt": "뭐해", "intent": "general_quirky", "scenario": "general", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 1.2}
+{"id": "9340", "audio": "data/eval/audio/9340.flac", "utt": "채널 구백오십일 틀어", "intent": "play_radio", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 5.64}
+{"id": "13549", "audio": "data/eval/audio/13549.flac", "utt": "간쇠고기 가장 싸게 파는 곳 알려줘", "intent": "recommendation_locations", "scenario": "recommendation", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.12}
+{"id": "3041", "audio": "data/eval/audio/3041.flac", "utt": "올리 실검 순위 높은 토픽", "intent": "news_query", "scenario": "news", "speaker": "59303adcdb68d70001ecd942", "duration": 3.06}
+{"id": "6558", "audio": "data/eval/audio/6558.flac", "utt": "내 사촌오빠 마음에 들어", "intent": "general_quirky", "scenario": "general", "speaker": "652aede39bf7798b707544c9", "duration": 6.66}
+{"id": "1211", "audio": "data/eval/audio/1211.flac", "utt": "뉴욕 시간을 런던 시간으로 변경해", "intent": "datetime_convert", "scenario": "datetime", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.9}
+{"id": "5632", "audio": "data/eval/audio/5632.flac", "utt": "넥스트 의 모든 노래 셔플 해서 재생", "intent": "play_music", "scenario": "play", "speaker": "59303adcdb68d70001ecd942", "duration": 4.02}
+{"id": "6599", "audio": "data/eval/audio/6599.flac", "utt": "우주", "intent": "general_quirky", "scenario": "general", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 1.2}
+{"id": "9787", "audio": "data/eval/audio/9787.flac", "utt": "책 읽기 시작해", "intent": "play_audiobook", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.86}
+{"id": "6132", "audio": "data/eval/audio/6132.flac", "utt": "올리야 내 최근 플레이리스트에서 아무노래나 틀어", "intent": "play_music", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.66}
+{"id": "2825", "audio": "data/eval/audio/2825.flac", "utt": "사월 십육일 은 무슨 요일이지", "intent": "datetime_query", "scenario": "datetime", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.7}
+{"id": "1793", "audio": "data/eval/audio/1793.flac", "utt": "북한 최신 소식 뭐 있어", "intent": "news_query", "scenario": "news", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.0}
+{"id": "851", "audio": "data/eval/audio/851.flac", "utt": "불 밝게 해줘", "intent": "iot_hue_lightup", "scenario": "iot", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 1.32}
+{"id": "6079", "audio": "data/eval/audio/6079.flac", "utt": "알람", "intent": "alarm_set", "scenario": "alarm", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.16}
+{"id": "2979", "audio": "data/eval/audio/2979.flac", "utt": "야간 모드", "intent": "iot_hue_lightdim", "scenario": "iot", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.92}
+{"id": "16848", "audio": "data/eval/audio/16848.flac", "utt": "수지와 수연이에게 이메일을 보내", "intent": "email_sendemail", "scenario": "email", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.76}
+{"id": "10629", "audio": "data/eval/audio/10629.flac", "utt": "목록 에서 이 항목 삭제해주세요", "intent": "lists_remove", "scenario": "lists", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.12}
+{"id": "8377", "audio": "data/eval/audio/8377.flac", "utt": "내 일정 다시 알려줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.64}
+{"id": "921", "audio": "data/eval/audio/921.flac", "utt": "내 가 좋아하는 가수 음악 틀어", "intent": "play_music", "scenario": "play", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.58}
+{"id": "11530", "audio": "data/eval/audio/11530.flac", "utt": "장치에 저장된 버락오바마 팟케스트 틀어", "intent": "play_podcasts", "scenario": "play", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.08}
+{"id": "6105", "audio": "data/eval/audio/6105.flac", "utt": "올리야 경상북도 울릉도 에 날씨 어때", "intent": "weather_query", "scenario": "weather", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.38}
+{"id": "2095", "audio": "data/eval/audio/2095.flac", "utt": "네네치킨 배달하나", "intent": "takeaway_query", "scenario": "takeaway", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.04}
+{"id": "9734", "audio": "data/eval/audio/9734.flac", "utt": "갈증 오디오북 재생 시작", "intent": "play_audiobook", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.76}
+{"id": "2088", "audio": "data/eval/audio/2088.flac", "utt": "전라도풍이 아닌 트로트 와 판소리 좀 들려줘", "intent": "play_music", "scenario": "play", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.96}
+{"id": "7043", "audio": "data/eval/audio/7043.flac", "utt": "두 시간 후 알람 설정해줘", "intent": "alarm_set", "scenario": "alarm", "speaker": "652aede39bf7798b707544c9", "duration": 5.7}
+{"id": "1901", "audio": "data/eval/audio/1901.flac", "utt": "선거 결과 업데이트 해줘", "intent": "news_query", "scenario": "news", "speaker": "652aede39bf7798b707544c9", "duration": 7.08}
+{"id": "3530", "audio": "data/eval/audio/3530.flac", "utt": "낭만적인 음악 좀 들려줘", "intent": "play_music", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 4.98}
+{"id": "5763", "audio": "data/eval/audio/5763.flac", "utt": "아티스트 틀어", "intent": "play_music", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.16}
+{"id": "2935", "audio": "data/eval/audio/2935.flac", "utt": "내 트로트 플레이리스트 재생", "intent": "play_music", "scenario": "play", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.54}
+{"id": "1224", "audio": "data/eval/audio/1224.flac", "utt": "월요일 낮 에 날씨는 어때", "intent": "weather_query", "scenario": "weather", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.06}
+{"id": "3148", "audio": "data/eval/audio/3148.flac", "utt": "내 모닝 알람 몇 시로 설정되어 있어", "intent": "alarm_query", "scenario": "alarm", "speaker": "652aede39bf7798b707544c9", "duration": 5.64}
+{"id": "12950", "audio": "data/eval/audio/12950.flac", "utt": "크로아티아 에서 사용하는 통화는 뭐야", "intent": "qa_currency", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 6.3}
+{"id": "16533", "audio": "data/eval/audio/16533.flac", "utt": "현수 한테 이메일 쓰는 거 좀 도와줄래", "intent": "email_sendemail", "scenario": "email", "speaker": "59303adcdb68d70001ecd942", "duration": 3.6}
+{"id": "3139", "audio": "data/eval/audio/3139.flac", "utt": "볼륨 좀 줄여줘", "intent": "audio_volume_down", "scenario": "audio", "speaker": "652aede39bf7798b707544c9", "duration": 4.74}
+{"id": "12895", "audio": "data/eval/audio/12895.flac", "utt": "특정 지역의 도로는 넓습니까 좁습니까", "intent": "transport_traffic", "scenario": "transport", "speaker": "5cd875edf7470b0016e9ca83", "duration": 4.08}
+{"id": "13110", "audio": "data/eval/audio/13110.flac", "utt": "연기하는 연기자", "intent": "qa_definition", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.98}
+{"id": "15900", "audio": "data/eval/audio/15900.flac", "utt": "지수의 성은 뭐야", "intent": "email_querycontact", "scenario": "email", "speaker": "59303adcdb68d70001ecd942", "duration": 2.34}
+{"id": "10700", "audio": "data/eval/audio/10700.flac", "utt": "목록에 이 항목을 추가해", "intent": "lists_createoradd", "scenario": "lists", "speaker": "652aede39bf7798b707544c9", "duration": 4.62}
+{"id": "16085", "audio": "data/eval/audio/16085.flac", "utt": "김한구 한테 이메일 해", "intent": "email_sendemail", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 4.62}
+{"id": "8899", "audio": "data/eval/audio/8899.flac", "utt": "세부 사항", "intent": "calendar_query", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 4.44}
+{"id": "3202", "audio": "data/eval/audio/3202.flac", "utt": "재즈 좋아하는 거 알아 둬", "intent": "music_likeness", "scenario": "music", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.28}
+{"id": "6723", "audio": "data/eval/audio/6723.flac", "utt": "이번 주 리마인더 에 내 의제가 뭐야", "intent": "calendar_query", "scenario": "calendar", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.94}
+{"id": "3242", "audio": "data/eval/audio/3242.flac", "utt": "한 시 삼십 분 알람 설정해줄 수 있나요", "intent": "alarm_set", "scenario": "alarm", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.24}
+{"id": "7134", "audio": "data/eval/audio/7134.flac", "utt": "다음에 해야 할 이벤트 는 뭐야", "intent": "calendar_query", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.88}
+{"id": "4326", "audio": "data/eval/audio/4326.flac", "utt": "아이유 의 좋은 날 재생", "intent": "play_music", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.7}
+{"id": "3875", "audio": "data/eval/audio/3875.flac", "utt": "남은 이번 주 날씨가 어때", "intent": "weather_query", "scenario": "weather", "speaker": "59303adcdb68d70001ecd942", "duration": 2.34}
+{"id": "9164", "audio": "data/eval/audio/9164.flac", "utt": "올리 이번 달에 어떤 달력 이벤트가 있어", "intent": "calendar_query", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.84}
+{"id": "13583", "audio": "data/eval/audio/13583.flac", "utt": "달러 와 유로 사이의 환율은 현재 얼마야", "intent": "qa_currency", "scenario": "qa", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.12}
+{"id": "16161", "audio": "data/eval/audio/16161.flac", "utt": "이 이메일에 답장 해줘", "intent": "email_sendemail", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 4.8}
+{"id": "6677", "audio": "data/eval/audio/6677.flac", "utt": "우주 리서치", "intent": "general_quirky", "scenario": "general", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.4}
+{"id": "10545", "audio": "data/eval/audio/10545.flac", "utt": "나에게 숫자 에 관한 목록 을 만들어줘", "intent": "lists_createoradd", "scenario": "lists", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.54}
+{"id": "232", "audio": "data/eval/audio/232.flac", "utt": "아침 여섯 시 알람 설정", "intent": "alarm_set", "scenario": "alarm", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.98}
+{"id": "3149", "audio": "data/eval/audio/3149.flac", "utt": "내가 내일 아침 으로 설정한 알람이 있어", "intent": "alarm_query", "scenario": "alarm", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.74}
+{"id": "2103", "audio": "data/eval/audio/2103.flac", "utt": "내가 마지막으로 사용한 플레이리스트 틀어", "intent": "play_music", "scenario": "play", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.88}
+{"id": "15863", "audio": "data/eval/audio/15863.flac", "utt": "엄마에게서 온 이메일들 중 안 읽은 이메일들을 확인해", "intent": "email_query", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 7.5}
+{"id": "7571", "audio": "data/eval/audio/7571.flac", "utt": "청구 주기 언제야", "intent": "calendar_query", "scenario": "calendar", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.62}
+{"id": "10529", "audio": "data/eval/audio/10529.flac", "utt": "이거 목록에 추가해줘", "intent": "lists_createoradd", "scenario": "lists", "speaker": "652aede39bf7798b707544c9", "duration": 4.74}
+{"id": "2157", "audio": "data/eval/audio/2157.flac", "utt": "월요일 날씨", "intent": "weather_query", "scenario": "weather", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 1.8}
+{"id": "10041", "audio": "data/eval/audio/10041.flac", "utt": "쿠키 어떻게 만들어", "intent": "cooking_recipe", "scenario": "cooking", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.46}
+{"id": "10303", "audio": "data/eval/audio/10303.flac", "utt": "게임 찾아줘", "intent": "play_game", "scenario": "play", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.6}
+{"id": "4892", "audio": "data/eval/audio/4892.flac", "utt": "음악 좀 틀어줘", "intent": "play_music", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 3.96}
+{"id": "2749", "audio": "data/eval/audio/2749.flac", "utt": "커피 머신 켜 줘", "intent": "iot_coffee", "scenario": "iot", "speaker": "652aede39bf7798b707544c9", "duration": 4.62}
+{"id": "15269", "audio": "data/eval/audio/15269.flac", "utt": "내 페이스북 에 이걸 포스트 해 줄래", "intent": "social_post", "scenario": "social", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.94}
+{"id": "9127", "audio": "data/eval/audio/9127.flac", "utt": "코엑스 는 어디 있어", "intent": "qa_factoid", "scenario": "qa", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 3.72}
+{"id": "658", "audio": "data/eval/audio/658.flac", "utt": "캘리포니아", "intent": "datetime_query", "scenario": "datetime", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 1.56}
+{"id": "8612", "audio": "data/eval/audio/8612.flac", "utt": "내 캘린더에서 목요일 점심 지워", "intent": "calendar_remove", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.48}
+{"id": "1225", "audio": "data/eval/audio/1225.flac", "utt": "삼월 십오일 은 무슨 요일이야", "intent": "datetime_query", "scenario": "datetime", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.36}
+{"id": "5453", "audio": "data/eval/audio/5453.flac", "utt": "오전 열 시 이후 에 재킷 필요할까 아닐까", "intent": "weather_query", "scenario": "weather", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.54}
+{"id": "510", "audio": "data/eval/audio/510.flac", "utt": "나 알람 있어", "intent": "alarm_query", "scenario": "alarm", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.22}
+{"id": "16303", "audio": "data/eval/audio/16303.flac", "utt": "최근에 받은 이메일 알림이 있나", "intent": "email_query", "scenario": "email", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.88}
+{"id": "7769", "audio": "data/eval/audio/7769.flac", "utt": "이월 사일 오후 두시 서울숲 에서 연습 추가", "intent": "calendar_set", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.08}
+{"id": "8059", "audio": "data/eval/audio/8059.flac", "utt": "이번 주 가 쓰레기 수거 주간이야", "intent": "calendar_query", "scenario": "calendar", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.76}
+{"id": "11070", "audio": "data/eval/audio/11070.flac", "utt": "내 잡화 목록 에 어떤 항목 있는지 말해줄래", "intent": "lists_query", "scenario": "lists", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.66}
+{"id": "8253", "audio": "data/eval/audio/8253.flac", "utt": "매일 오전 다섯 시 에 일어나야 한다는 리마인더 설정", "intent": "alarm_set", "scenario": "alarm", "speaker": "59303adcdb68d70001ecd942", "duration": 4.38}
+{"id": "9447", "audio": "data/eval/audio/9447.flac", "utt": "pandora 에서 인기 있는 음악 틀어주세요", "intent": "play_radio", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.36}
+{"id": "14635", "audio": "data/eval/audio/14635.flac", "utt": "비대 의 의미를 말해줄 수 있어", "intent": "qa_definition", "scenario": "qa", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.4}
+{"id": "10883", "audio": "data/eval/audio/10883.flac", "utt": "어떻게 하면 아이템을 지울 수 있는지 말해줘", "intent": "lists_remove", "scenario": "lists", "speaker": "652aede39bf7798b707544c9", "duration": 6.18}
+{"id": "682", "audio": "data/eval/audio/682.flac", "utt": "앞으로 김건희 학력 위조 관련 뉴스 팔로우 해줘", "intent": "news_query", "scenario": "news", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 5.28}
+{"id": "8325", "audio": "data/eval/audio/8325.flac", "utt": "이번 주 매일 정오 시간에 점심 미팅 추가해", "intent": "calendar_set", "scenario": "calendar", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 6.66}
+{"id": "3701", "audio": "data/eval/audio/3701.flac", "utt": "이거 너무 밝아", "intent": "iot_hue_lightdim", "scenario": "iot", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.82}
+{"id": "2821", "audio": "data/eval/audio/2821.flac", "utt": "조명 색 파란색 에서 하얀색 으로 바꿔줘", "intent": "iot_hue_lightchange", "scenario": "iot", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.46}
+{"id": "99", "audio": "data/eval/audio/99.flac", "utt": "주간 기상정보 알려줘", "intent": "weather_query", "scenario": "weather", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.22}
+{"id": "7305", "audio": "data/eval/audio/7305.flac", "utt": "오늘 오후에 동창회 있다고 달력에 입력해줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.66}
+{"id": "15725", "audio": "data/eval/audio/15725.flac", "utt": "트위터에 상태를 쓰고 싶어", "intent": "social_post", "scenario": "social", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.0}
+{"id": "10242", "audio": "data/eval/audio/10242.flac", "utt": "식사 요리법 찾아줘", "intent": "cooking_recipe", "scenario": "cooking", "speaker": "652aede39bf7798b707544c9", "duration": 5.58}
+{"id": "16829", "audio": "data/eval/audio/16829.flac", "utt": "은미한테 답장을 보내", "intent": "email_sendemail", "scenario": "email", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.18}
+{"id": "7703", "audio": "data/eval/audio/7703.flac", "utt": "올리야 내일 아침 열시에 미팅 있다고 알려줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.18}
+{"id": "16026", "audio": "data/eval/audio/16026.flac", "utt": "민준이의 마감기한 검색해", "intent": "email_query", "scenario": "email", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.24}
+{"id": "1545", "audio": "data/eval/audio/1545.flac", "utt": "빌보드 탑 텐 틀어줘", "intent": "play_music", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.98}
+{"id": "14078", "audio": "data/eval/audio/14078.flac", "utt": "버뮤다 삼각지대가 뭐야", "intent": "qa_factoid", "scenario": "qa", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.68}
+{"id": "4046", "audio": "data/eval/audio/4046.flac", "utt": "오늘 날씨 어떨까", "intent": "weather_query", "scenario": "weather", "speaker": "59303adcdb68d70001ecd942", "duration": 2.22}
+{"id": "1333", "audio": "data/eval/audio/1333.flac", "utt": "오늘 덥지 않아", "intent": "weather_query", "scenario": "weather", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.56}
+{"id": "3840", "audio": "data/eval/audio/3840.flac", "utt": "룸바 켜 줘", "intent": "iot_cleaning", "scenario": "iot", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.16}
+{"id": "2790", "audio": "data/eval/audio/2790.flac", "utt": "지난 밤 롯데자이언츠가 이겼어", "intent": "news_query", "scenario": "news", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.04}
+{"id": "10730", "audio": "data/eval/audio/10730.flac", "utt": "내 목록에 뭐가 있는지 알려주겠어", "intent": "lists_query", "scenario": "lists", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.0}
+{"id": "2598", "audio": "data/eval/audio/2598.flac", "utt": "가장 최근 국제 뉴스가 뭐야", "intent": "news_query", "scenario": "news", "speaker": "652aede39bf7798b707544c9", "duration": 5.7}
+{"id": "11762", "audio": "data/eval/audio/11762.flac", "utt": "서울시에서 열리는 이벤트 뭐가 있어", "intent": "recommendation_events", "scenario": "recommendation", "speaker": "652aede39bf7798b707544c9", "duration": 6.42}
+{"id": "14764", "audio": "data/eval/audio/14764.flac", "utt": "공이 어떻게 생겼는지 나한테 설명해줘", "intent": "qa_definition", "scenario": "qa", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 6.3}
+{"id": "10775", "audio": "data/eval/audio/10775.flac", "utt": "계획하고 있는 파티에 초대할 연락처 목록을 갖고 있나", "intent": "lists_query", "scenario": "lists", "speaker": "59303adcdb68d70001ecd942", "duration": 4.92}
+{"id": "14227", "audio": "data/eval/audio/14227.flac", "utt": "유로 대 캐나다 달러 는 얼마야", "intent": "qa_currency", "scenario": "qa", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.94}
+{"id": "6831", "audio": "data/eval/audio/6831.flac", "utt": "다음 오일 동안 이벤트 모두 삭제해", "intent": "calendar_remove", "scenario": "calendar", "speaker": "59303adcdb68d70001ecd942", "duration": 3.54}
+{"id": "2991", "audio": "data/eval/audio/2991.flac", "utt": "최신 기술 소식", "intent": "news_query", "scenario": "news", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.92}
+{"id": "8491", "audio": "data/eval/audio/8491.flac", "utt": "오늘 저녁 축구 경기 하이라이트 뭐였어", "intent": "calendar_query", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 5.76}
+{"id": "6792", "audio": "data/eval/audio/6792.flac", "utt": "내 이벤트 말해 줘", "intent": "calendar_query", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 1.56}
+{"id": "1925", "audio": "data/eval/audio/1925.flac", "utt": "내 로봇 청소기 돌려줘", "intent": "iot_cleaning", "scenario": "iot", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.12}
+{"id": "1945", "audio": "data/eval/audio/1945.flac", "utt": "조명 꺼", "intent": "iot_hue_lightoff", "scenario": "iot", "speaker": "65125837372ffeccb5f91ac4", "duration": 1.8}
+{"id": "1201", "audio": "data/eval/audio/1201.flac", "utt": "뉴욕 의 현재 시간은 몇 시야", "intent": "datetime_query", "scenario": "datetime", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 7.08}
+{"id": "10539", "audio": "data/eval/audio/10539.flac", "utt": "내가 마지막으로 업데이트한 목록 보내줘", "intent": "lists_query", "scenario": "lists", "speaker": "652aede39bf7798b707544c9", "duration": 5.46}
+{"id": "10728", "audio": "data/eval/audio/10728.flac", "utt": "가능한 목록 표시해줘", "intent": "lists_query", "scenario": "lists", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.58}
+{"id": "17153", "audio": "data/eval/audio/17153.flac", "utt": "준호가 나한테 오늘 이메일 썼어", "intent": "email_query", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 5.46}
+{"id": "2419", "audio": "data/eval/audio/2419.flac", "utt": "네이버 뉴스에 어떤 뉴스 업데이트가 있나요", "intent": "news_query", "scenario": "news", "speaker": "59303adcdb68d70001ecd942", "duration": 3.78}
+{"id": "6364", "audio": "data/eval/audio/6364.flac", "utt": "미국에 대해서 알려줘", "intent": "general_quirky", "scenario": "general", "speaker": "652aede39bf7798b707544c9", "duration": 4.74}
+{"id": "718", "audio": "data/eval/audio/718.flac", "utt": "와이 티 엔 속보 알 수 있을까", "intent": "news_query", "scenario": "news", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.58}
+{"id": "8385", "audio": "data/eval/audio/8385.flac", "utt": "이번 주가 월급받는 주야", "intent": "calendar_query", "scenario": "calendar", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.72}
+{"id": "14073", "audio": "data/eval/audio/14073.flac", "utt": "달러 환율 알려줘", "intent": "qa_currency", "scenario": "qa", "speaker": "652aede39bf7798b707544c9", "duration": 6.24}
+{"id": "16612", "audio": "data/eval/audio/16612.flac", "utt": "엄마한테 생일 축하 메일 보내줘", "intent": "email_sendemail", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 7.26}
+{"id": "11716", "audio": "data/eval/audio/11716.flac", "utt": "근처 마트", "intent": "recommendation_locations", "scenario": "recommendation", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.34}
+{"id": "6908", "audio": "data/eval/audio/6908.flac", "utt": "매일 오전 아홉시 리마인더 필요해", "intent": "calendar_set", "scenario": "calendar", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.64}
+{"id": "14014", "audio": "data/eval/audio/14014.flac", "utt": "경상북도 가 어디야", "intent": "qa_factoid", "scenario": "qa", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.38}
+{"id": "6990", "audio": "data/eval/audio/6990.flac", "utt": "다음 이벤트", "intent": "calendar_query", "scenario": "calendar", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.26}
+{"id": "697", "audio": "data/eval/audio/697.flac", "utt": "불 밝게 해줘", "intent": "iot_hue_lightup", "scenario": "iot", "speaker": "652aede39bf7798b707544c9", "duration": 4.2}
+{"id": "11169", "audio": "data/eval/audio/11169.flac", "utt": "가능한 목록 표시", "intent": "lists_query", "scenario": "lists", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.22}
+{"id": "10070", "audio": "data/eval/audio/10070.flac", "utt": "감자 어떻게 굽지", "intent": "cooking_recipe", "scenario": "cooking", "speaker": "59303adcdb68d70001ecd942", "duration": 2.22}
+{"id": "8323", "audio": "data/eval/audio/8323.flac", "utt": "내 캘린더 내일 미팅 추가했나", "intent": "calendar_query", "scenario": "calendar", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.24}
+{"id": "7317", "audio": "data/eval/audio/7317.flac", "utt": "이 이벤트 장소를 내 여동생 집 으로 설정해줄 수 있어", "intent": "calendar_set", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 11.94}
+{"id": "1222", "audio": "data/eval/audio/1222.flac", "utt": "오묘해 재생해주세요", "intent": "play_music", "scenario": "play", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.28}
+{"id": "16723", "audio": "data/eval/audio/16723.flac", "utt": "병국이가 보낸 이메일 내용이 뭐지", "intent": "email_query", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 6.12}
+{"id": "10763", "audio": "data/eval/audio/10763.flac", "utt": "내 쇼핑 목록에 씨리얼 넣어줘", "intent": "lists_createoradd", "scenario": "lists", "speaker": "59303adcdb68d70001ecd942", "duration": 2.7}
+{"id": "906", "audio": "data/eval/audio/906.flac", "utt": "다음 주 날씨 좀 찾아봐줄래", "intent": "weather_query", "scenario": "weather", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.64}
+{"id": "365", "audio": "data/eval/audio/365.flac", "utt": "오늘 월요일 이니", "intent": "datetime_query", "scenario": "datetime", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.74}
+{"id": "14285", "audio": "data/eval/audio/14285.flac", "utt": "부산 에 관해 말해줘", "intent": "qa_factoid", "scenario": "qa", "speaker": "59303adcdb68d70001ecd942", "duration": 2.34}
+{"id": "1894", "audio": "data/eval/audio/1894.flac", "utt": "저 노래 하고 내 생각 저장해", "intent": "music_likeness", "scenario": "music", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.4}
+{"id": "16244", "audio": "data/eval/audio/16244.flac", "utt": "병우는 한국에 살고 있나", "intent": "email_querycontact", "scenario": "email", "speaker": "59303adcdb68d70001ecd942", "duration": 2.58}
+{"id": "15531", "audio": "data/eval/audio/15531.flac", "utt": "이마트 에 고객 서비스 엉망이라고 트윗 해 줘", "intent": "social_post", "scenario": "social", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.32}
+{"id": "3843", "audio": "data/eval/audio/3843.flac", "utt": "중국 음식 시켜줘", "intent": "takeaway_order", "scenario": "takeaway", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.16}
+{"id": "9951", "audio": "data/eval/audio/9951.flac", "utt": "요리 하는 방법 알려줘", "intent": "cooking_recipe", "scenario": "cooking", "speaker": "59303adcdb68d70001ecd942", "duration": 2.4}
+{"id": "13846", "audio": "data/eval/audio/13846.flac", "utt": "임예진 이 백상예술대상 수상한 적 있어", "intent": "qa_factoid", "scenario": "qa", "speaker": "652aede39bf7798b707544c9", "duration": 5.4}
+{"id": "12692", "audio": "data/eval/audio/12692.flac", "utt": "보통 강원도 삼척 교통량이 얼마나 돼", "intent": "transport_traffic", "scenario": "transport", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 6.24}
+{"id": "1902", "audio": "data/eval/audio/1902.flac", "utt": "새로운 이민 정책에 대해 분석가들은 뭐라고 말하니", "intent": "news_query", "scenario": "news", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.56}
+{"id": "8447", "audio": "data/eval/audio/8447.flac", "utt": "다음 토요일 다섯 시 도서관 가는 거 리마인드해 줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.84}
+{"id": "4728", "audio": "data/eval/audio/4728.flac", "utt": "주식 시장 의 모든 뉴스에 관한 알림 켜", "intent": "qa_stock", "scenario": "qa", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.2}
+{"id": "9778", "audio": "data/eval/audio/9778.flac", "utt": "브레이킹 루틴 재생", "intent": "play_audiobook", "scenario": "play", "speaker": "646019be07273b749d20d0da", "duration": 3.12}
+{"id": "11022", "audio": "data/eval/audio/11022.flac", "utt": "페인트가 떨어졌으니 화장실 페인트는 목록에서 빼줘", "intent": "lists_remove", "scenario": "lists", "speaker": "65125837372ffeccb5f91ac4", "duration": 5.34}
+{"id": "2740", "audio": "data/eval/audio/2740.flac", "utt": "이 식당 에서 배달 시킬 수 있어", "intent": "takeaway_query", "scenario": "takeaway", "speaker": "652aede39bf7798b707544c9", "duration": 4.68}
+{"id": "9214", "audio": "data/eval/audio/9214.flac", "utt": "pandora 열어서 록 스테이션 재생", "intent": "play_radio", "scenario": "play", "speaker": "59303adcdb68d70001ecd942", "duration": 3.72}
+{"id": "538", "audio": "data/eval/audio/538.flac", "utt": "오후 한 시 알람 설정해", "intent": "alarm_set", "scenario": "alarm", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.74}
+{"id": "4836", "audio": "data/eval/audio/4836.flac", "utt": "어떤 뉴스라도 있어", "intent": "news_query", "scenario": "news", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.12}
+{"id": "14852", "audio": "data/eval/audio/14852.flac", "utt": "한지민 의 원래 머리카락 색은 뭐야", "intent": "qa_factoid", "scenario": "qa", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.06}
+{"id": "1468", "audio": "data/eval/audio/1468.flac", "utt": "음악 켜", "intent": "play_music", "scenario": "play", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 2.76}
+{"id": "4551", "audio": "data/eval/audio/4551.flac", "utt": "에버랜드 판다 업데이트 해줘", "intent": "news_query", "scenario": "news", "speaker": "652aede39bf7798b707544c9", "duration": 4.8}
+{"id": "6414", "audio": "data/eval/audio/6414.flac", "utt": "내 주간 계획", "intent": "calendar_query", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.62}
+{"id": "7229", "audio": "data/eval/audio/7229.flac", "utt": "내 달력에 사월 이일 제주 휴일 표시해 줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 6.36}
+{"id": "5638", "audio": "data/eval/audio/5638.flac", "utt": "가게에서 고춧가루 사야 하나", "intent": "weather_query", "scenario": "weather", "speaker": "59303adcdb68d70001ecd942", "duration": 2.82}
+{"id": "9179", "audio": "data/eval/audio/9179.flac", "utt": "일월 이십이일 회의 리마인드 해 줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.42}
+{"id": "7732", "audio": "data/eval/audio/7732.flac", "utt": "재석의 생일 매 유월 삼일마다 설정해", "intent": "calendar_set", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 4.5}
+{"id": "4705", "audio": "data/eval/audio/4705.flac", "utt": "오늘 내 지역 날씨 예보 어때", "intent": "weather_query", "scenario": "weather", "speaker": "652aede39bf7798b707544c9", "duration": 5.04}
+{"id": "3194", "audio": "data/eval/audio/3194.flac", "utt": "시리 내 케이팝 플레이리스트 재생해", "intent": "play_music", "scenario": "play", "speaker": "59303adcdb68d70001ecd942", "duration": 3.3}
+{"id": "16214", "audio": "data/eval/audio/16214.flac", "utt": "최근 나에게 이메일을 보낸 사람은 누구이고 각 이메일의 제목은 뭐야", "intent": "email_query", "scenario": "email", "speaker": "65125837372ffeccb5f91ac4", "duration": 5.16}
+{"id": "12625", "audio": "data/eval/audio/12625.flac", "utt": "경주 가는 기차 시간 좀 알려줘", "intent": "transport_query", "scenario": "transport", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.0}
+{"id": "13588", "audio": "data/eval/audio/13588.flac", "utt": "감자 를 설명해줘", "intent": "qa_definition", "scenario": "qa", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.4}
+{"id": "8311", "audio": "data/eval/audio/8311.flac", "utt": "오후 두시 수요일마다 알림 설정", "intent": "calendar_set", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.54}
+{"id": "3466", "audio": "data/eval/audio/3466.flac", "utt": "볼륨 높여줘", "intent": "audio_volume_up", "scenario": "audio", "speaker": "652aede39bf7798b707544c9", "duration": 4.8}
+{"id": "14450", "audio": "data/eval/audio/14450.flac", "utt": "핑크가 새 앨범 녹음하고 있어", "intent": "qa_factoid", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.94}
+{"id": "14645", "audio": "data/eval/audio/14645.flac", "utt": "주식 회사 이름", "intent": "qa_stock", "scenario": "qa", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.04}
+{"id": "4033", "audio": "data/eval/audio/4033.flac", "utt": "다음 주 에 피자 먹으러 가기 제일 좋은 날은 언제야", "intent": "datetime_query", "scenario": "datetime", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.84}
+{"id": "6136", "audio": "data/eval/audio/6136.flac", "utt": "재밌게 해봐", "intent": "general_joke", "scenario": "general", "speaker": "652aede39bf7798b707544c9", "duration": 5.7}
+{"id": "9211", "audio": "data/eval/audio/9211.flac", "utt": "케이비에스 쿨에프엠 라디오", "intent": "play_radio", "scenario": "play", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.4}
+{"id": "5770", "audio": "data/eval/audio/5770.flac", "utt": "다온참치 음식점 포장음식 배달하니", "intent": "takeaway_query", "scenario": "takeaway", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.64}
+{"id": "1943", "audio": "data/eval/audio/1943.flac", "utt": "집 청소 시작해줘", "intent": "iot_cleaning", "scenario": "iot", "speaker": "652aede39bf7798b707544c9", "duration": 5.76}
+{"id": "14156", "audio": "data/eval/audio/14156.flac", "utt": "위키피디아에서 확인해봐", "intent": "qa_definition", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.76}
+{"id": "4558", "audio": "data/eval/audio/4558.flac", "utt": "이번 주 내 주변 지역 날씨는 어때", "intent": "weather_query", "scenario": "weather", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.4}
+{"id": "11358", "audio": "data/eval/audio/11358.flac", "utt": "다음 팟캐스트 로 건너뛰기", "intent": "play_podcasts", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 4.68}
+{"id": "8677", "audio": "data/eval/audio/8677.flac", "utt": "미팅 삭제해", "intent": "calendar_remove", "scenario": "calendar", "speaker": "59303adcdb68d70001ecd942", "duration": 1.74}
+{"id": "2943", "audio": "data/eval/audio/2943.flac", "utt": "오늘의 날짜는 뭐야", "intent": "datetime_query", "scenario": "datetime", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.86}
+{"id": "16423", "audio": "data/eval/audio/16423.flac", "utt": "저녁 몇 시냐고 민석 에게 이메일 보내", "intent": "email_sendemail", "scenario": "email", "speaker": "59303adcdb68d70001ecd942", "duration": 3.12}
+{"id": "10388", "audio": "data/eval/audio/10388.flac", "utt": "스무고개 할 수 있어", "intent": "play_game", "scenario": "play", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.22}
+{"id": "6675", "audio": "data/eval/audio/6675.flac", "utt": "너가 세 가지에 대해 말할 수 있다면 그것들은 어떤 것들이야", "intent": "general_quirky", "scenario": "general", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 8.34}
+{"id": "8487", "audio": "data/eval/audio/8487.flac", "utt": "수요일 오전 아홉시 박선생님 사무실 에서 예약 추가해줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "59303adcdb68d70001ecd942", "duration": 5.46}
+{"id": "13107", "audio": "data/eval/audio/13107.flac", "utt": "내 동료 와의 미팅 일정 잡아", "intent": "calendar_set", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.36}
+{"id": "17017", "audio": "data/eval/audio/17017.flac", "utt": "내 연락처에 이메일 주소 저장해", "intent": "email_addcontact", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 8.58}
+{"id": "12006", "audio": "data/eval/audio/12006.flac", "utt": "오늘 부산에서 무슨 일 있어", "intent": "recommendation_events", "scenario": "recommendation", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.46}
+{"id": "1823", "audio": "data/eval/audio/1823.flac", "utt": "내가 좋아하는 가수는 옥주현 이야", "intent": "music_likeness", "scenario": "music", "speaker": "652aede39bf7798b707544c9", "duration": 6.9}
+{"id": "16083", "audio": "data/eval/audio/16083.flac", "utt": "최근 이메일 보여줘 영희", "intent": "email_query", "scenario": "email", "speaker": "59303adcdb68d70001ecd942", "duration": 2.82}
+{"id": "741", "audio": "data/eval/audio/741.flac", "utt": "알앤비 및 소울 장르 음악 시작해", "intent": "play_music", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.36}
+{"id": "9677", "audio": "data/eval/audio/9677.flac", "utt": "강영숙 오디오북 올려줄래", "intent": "play_audiobook", "scenario": "play", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.42}
+{"id": "7470", "audio": "data/eval/audio/7470.flac", "utt": "재현 과의 미팅 삼월 십일 설정해", "intent": "calendar_set", "scenario": "calendar", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 6.36}
+{"id": "14604", "audio": "data/eval/audio/14604.flac", "utt": "설명해", "intent": "qa_definition", "scenario": "qa", "speaker": "652aede39bf7798b707544c9", "duration": 3.72}
+{"id": "2122", "audio": "data/eval/audio/2122.flac", "utt": "거실 등 빨간색 으로 바꿔", "intent": "iot_hue_lightchange", "scenario": "iot", "speaker": "652aede39bf7798b707544c9", "duration": 6.0}
+{"id": "6648", "audio": "data/eval/audio/6648.flac", "utt": "오늘의 농담", "intent": "general_joke", "scenario": "general", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.86}
+{"id": "3183", "audio": "data/eval/audio/3183.flac", "utt": "전원 끄기 켜기", "intent": "iot_wemo_off", "scenario": "iot", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.56}
+{"id": "13029", "audio": "data/eval/audio/13029.flac", "utt": "요한계시록에 나타난 다른 나라들에 대해 나한테 설명해줘", "intent": "general_quirky", "scenario": "general", "speaker": "652aede39bf7798b707544c9", "duration": 8.22}
+{"id": "13710", "audio": "data/eval/audio/13710.flac", "utt": "완주 에서 울진 까지 몇 미터야", "intent": "qa_factoid", "scenario": "qa", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.3}
+{"id": "8786", "audio": "data/eval/audio/8786.flac", "utt": "내 지역의 휴가 여행지 찾아봐", "intent": "recommendation_events", "scenario": "recommendation", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.64}
+{"id": "11711", "audio": "data/eval/audio/11711.flac", "utt": "지역의 가장 좋은 바", "intent": "recommendation_locations", "scenario": "recommendation", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.22}
+{"id": "312", "audio": "data/eval/audio/312.flac", "utt": "여기 너무 어두워", "intent": "iot_hue_lighton", "scenario": "iot", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.88}
+{"id": "10086", "audio": "data/eval/audio/10086.flac", "utt": "피자 레시피 찾아줘", "intent": "cooking_recipe", "scenario": "cooking", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.92}
+{"id": "2963", "audio": "data/eval/audio/2963.flac", "utt": "내 가 좋아하는 이승환 노래 틀어", "intent": "play_music", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 5.88}
+{"id": "4853", "audio": "data/eval/audio/4853.flac", "utt": "내 알람 설정해줘", "intent": "alarm_set", "scenario": "alarm", "speaker": "652aede39bf7798b707544c9", "duration": 5.88}
+{"id": "11004", "audio": "data/eval/audio/11004.flac", "utt": "오늘의 내 쇼핑 리스트 크게 읽어줘", "intent": "lists_query", "scenario": "lists", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.56}
+{"id": "7402", "audio": "data/eval/audio/7402.flac", "utt": "다음 달에 엄마 생일 추가해줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.06}
+{"id": "11374", "audio": "data/eval/audio/11374.flac", "utt": "앞으로 넘어가 줘", "intent": "play_podcasts", "scenario": "play", "speaker": "59303adcdb68d70001ecd942", "duration": 2.1}
+{"id": "13870", "audio": "data/eval/audio/13870.flac", "utt": "홈런 의 정의는 뭐야", "intent": "qa_definition", "scenario": "qa", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.1}
+{"id": "8626", "audio": "data/eval/audio/8626.flac", "utt": "일정 언제야", "intent": "calendar_query", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 4.14}
+{"id": "16615", "audio": "data/eval/audio/16615.flac", "utt": "혹시 주희한테 어떤 이메일 온 거 있는지 말해줘", "intent": "email_query", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 6.42}
+{"id": "6912", "audio": "data/eval/audio/6912.flac", "utt": "오늘 미팅 누가 와", "intent": "calendar_query", "scenario": "calendar", "speaker": "59303adcdb68d70001ecd942", "duration": 2.28}
+{"id": "6628", "audio": "data/eval/audio/6628.flac", "utt": "요금 예측", "intent": "general_quirky", "scenario": "general", "speaker": "652aede39bf7798b707544c9", "duration": 3.54}
+{"id": "6927", "audio": "data/eval/audio/6927.flac", "utt": "이벤트 하고 정보 모두 지워", "intent": "calendar_remove", "scenario": "calendar", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.66}
+{"id": "9775", "audio": "data/eval/audio/9775.flac", "utt": "내가 읽은 마지막 장 의 시작 부분부터 내 오디오북 읽어줘", "intent": "play_audiobook", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 4.44}
+{"id": "12980", "audio": "data/eval/audio/12980.flac", "utt": "소개 의 간략한 정의를 말해줘", "intent": "qa_definition", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.88}
+{"id": "6104", "audio": "data/eval/audio/6104.flac", "utt": "경상남도 거제 에 오늘 비가 올까", "intent": "weather_query", "scenario": "weather", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 6.18}
+{"id": "13231", "audio": "data/eval/audio/13231.flac", "utt": "가장 높은 빌딩", "intent": "qa_factoid", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.88}
+{"id": "12904", "audio": "data/eval/audio/12904.flac", "utt": "다음 택시 예약해주세요", "intent": "transport_taxi", "scenario": "transport", "speaker": "652aede39bf7798b707544c9", "duration": 6.0}
+{"id": "138", "audio": "data/eval/audio/138.flac", "utt": "저거 무슨 노래야", "intent": "music_query", "scenario": "music", "speaker": "65125837372ffeccb5f91ac4", "duration": 1.68}
+{"id": "610", "audio": "data/eval/audio/610.flac", "utt": "내일 오전 여섯 시 에 일어나고 싶어요", "intent": "alarm_set", "scenario": "alarm", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.42}
+{"id": "13892", "audio": "data/eval/audio/13892.flac", "utt": "어떻게 해야 아이 두명을 바쁘게 할 수 있을지 알려줘", "intent": "general_quirky", "scenario": "general", "speaker": "5cd875edf7470b0016e9ca83", "duration": 4.5}
+{"id": "10470", "audio": "data/eval/audio/10470.flac", "utt": "지난 주 구입한 음식 목록 삭제해줘", "intent": "lists_remove", "scenario": "lists", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 6.3}
+{"id": "112", "audio": "data/eval/audio/112.flac", "utt": "넥스트 좀 들려줘", "intent": "play_music", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 4.62}
+{"id": "7086", "audio": "data/eval/audio/7086.flac", "utt": "오늘 저녁 미팅 삭제", "intent": "calendar_remove", "scenario": "calendar", "speaker": "59303adcdb68d70001ecd942", "duration": 2.58}
+{"id": "7620", "audio": "data/eval/audio/7620.flac", "utt": "이벤트 에 내 캘린더 모두 삭제해", "intent": "calendar_remove", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.08}
+{"id": "2158", "audio": "data/eval/audio/2158.flac", "utt": "화요일 날씨", "intent": "weather_query", "scenario": "weather", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.02}
+{"id": "5520", "audio": "data/eval/audio/5520.flac", "utt": "오월 이십이일 무슨 요일이야", "intent": "datetime_query", "scenario": "datetime", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.72}
+{"id": "7169", "audio": "data/eval/audio/7169.flac", "utt": "올리 매주 목요일 오후 두시 에 내 치료사 볼거야", "intent": "calendar_set", "scenario": "calendar", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.84}
+{"id": "8592", "audio": "data/eval/audio/8592.flac", "utt": "내일 오후 두시 리마인드해 줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 5.4}
+{"id": "10627", "audio": "data/eval/audio/10627.flac", "utt": "새 잡화 목록에 연필 넣어", "intent": "lists_createoradd", "scenario": "lists", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.48}
+{"id": "7064", "audio": "data/eval/audio/7064.flac", "utt": "내 달력에서 오늘 남은 일정 모두 지워줘", "intent": "calendar_remove", "scenario": "calendar", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 6.24}
+{"id": "3285", "audio": "data/eval/audio/3285.flac", "utt": "내일 안산 에 비가 오려나", "intent": "weather_query", "scenario": "weather", "speaker": "652aede39bf7798b707544c9", "duration": 4.56}
+{"id": "2431", "audio": "data/eval/audio/2431.flac", "utt": "다음 알람 뭐 있어", "intent": "alarm_query", "scenario": "alarm", "speaker": "59303adcdb68d70001ecd942", "duration": 2.04}
+{"id": "2889", "audio": "data/eval/audio/2889.flac", "utt": "여기 날씨 어때", "intent": "weather_query", "scenario": "weather", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.1}
+{"id": "12181", "audio": "data/eval/audio/12181.flac", "utt": "지금 나한테 타다 좀 보내줘", "intent": "transport_taxi", "scenario": "transport", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.64}
+{"id": "11876", "audio": "data/eval/audio/11876.flac", "utt": "내 주변에서 열리는 행사들 알려줘", "intent": "recommendation_events", "scenario": "recommendation", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.84}
+{"id": "11712", "audio": "data/eval/audio/11712.flac", "utt": "지역 이벤트들 전부 알려줘", "intent": "recommendation_events", "scenario": "recommendation", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.44}
+{"id": "12593", "audio": "data/eval/audio/12593.flac", "utt": "올리 인천 가는 기차 표 구해줘", "intent": "transport_ticket", "scenario": "transport", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.12}
+{"id": "5782", "audio": "data/eval/audio/5782.flac", "utt": "일몰 후 에 안개 낄까", "intent": "weather_query", "scenario": "weather", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.92}
+{"id": "13280", "audio": "data/eval/audio/13280.flac", "utt": "인터넷에서 모을 수 있는 모든 정보로 누가 케네디 대통령을 죽였는지에 대해서 가장 사실일 것 같은 설명을 찾아줘", "intent": "qa_factoid", "scenario": "qa", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 9.42}
+{"id": "9642", "audio": "data/eval/audio/9642.flac", "utt": "k. b. s. 쿨 f. m.", "intent": "play_radio", "scenario": "play", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.7}
+{"id": "10791", "audio": "data/eval/audio/10791.flac", "utt": "목록에서 항목 제거해", "intent": "lists_remove", "scenario": "lists", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.3}
+{"id": "5404", "audio": "data/eval/audio/5404.flac", "utt": "아이로봇이 부엌 깨끗하게 하게 해", "intent": "iot_cleaning", "scenario": "iot", "speaker": "652aede39bf7798b707544c9", "duration": 5.88}
+{"id": "415", "audio": "data/eval/audio/415.flac", "utt": "꿀잠 잘 수 있게 내 조명 바꿔", "intent": "iot_hue_lightchange", "scenario": "iot", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.88}
+{"id": "6905", "audio": "data/eval/audio/6905.flac", "utt": "굉장히 어렵네", "intent": "general_quirky", "scenario": "general", "speaker": "652aede39bf7798b707544c9", "duration": 4.14}
+{"id": "16393", "audio": "data/eval/audio/16393.flac", "utt": "지난 주에 받은 이메일들의 제목과 발신자를 열거해봐", "intent": "email_query", "scenario": "email", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 9.78}
+{"id": "14849", "audio": "data/eval/audio/14849.flac", "utt": "이 곱하기 삼의 답이 뭐야", "intent": "qa_maths", "scenario": "qa", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.14}
+{"id": "8192", "audio": "data/eval/audio/8192.flac", "utt": "그 행사에 어떤 것들이 있니", "intent": "recommendation_events", "scenario": "recommendation", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.76}
+{"id": "10969", "audio": "data/eval/audio/10969.flac", "utt": "마지막 줄 삭제해", "intent": "lists_remove", "scenario": "lists", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.46}
+{"id": "12478", "audio": "data/eval/audio/12478.flac", "utt": "오늘밤 오후 열시 후로 가능한 카카오택시 운전기사 찾아줘", "intent": "transport_taxi", "scenario": "transport", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.62}
+{"id": "4546", "audio": "data/eval/audio/4546.flac", "utt": "오마이걸 노래부터 틀어", "intent": "play_music", "scenario": "play", "speaker": "59303adcdb68d70001ecd942", "duration": 2.46}
+{"id": "6775", "audio": "data/eval/audio/6775.flac", "utt": "그게 언제야", "intent": "general_quirky", "scenario": "general", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.88}
+{"id": "6502", "audio": "data/eval/audio/6502.flac", "utt": "저는 비에 흠뻑 젖었습니다", "intent": "general_quirky", "scenario": "general", "speaker": "652aede39bf7798b707544c9", "duration": 5.46}
+{"id": "5937", "audio": "data/eval/audio/5937.flac", "utt": "저녁에 입을 비옷 필요해", "intent": "weather_query", "scenario": "weather", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.52}
+{"id": "8729", "audio": "data/eval/audio/8729.flac", "utt": "주간 약속 리마인더 설정해", "intent": "calendar_set", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 5.64}
+{"id": "2425", "audio": "data/eval/audio/2425.flac", "utt": "지금 몇 시인지 말해줘", "intent": "datetime_query", "scenario": "datetime", "speaker": "652aede39bf7798b707544c9", "duration": 5.52}
+{"id": "14380", "audio": "data/eval/audio/14380.flac", "utt": "시발점 의 정의가 뭐야", "intent": "qa_definition", "scenario": "qa", "speaker": "652aede39bf7798b707544c9", "duration": 6.3}
+{"id": "16971", "audio": "data/eval/audio/16971.flac", "utt": "진희의 이메일에 답장 하자", "intent": "email_sendemail", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 5.04}
+{"id": "16881", "audio": "data/eval/audio/16881.flac", "utt": "메일에 답장해", "intent": "email_sendemail", "scenario": "email", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.52}
+{"id": "13139", "audio": "data/eval/audio/13139.flac", "utt": "허리케인 이 뭐야", "intent": "qa_definition", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.1}
+{"id": "12919", "audio": "data/eval/audio/12919.flac", "utt": "카카오택시 앱 열어서 차 한 대 좀 준비해줘", "intent": "transport_taxi", "scenario": "transport", "speaker": "59303adcdb68d70001ecd942", "duration": 4.02}
+{"id": "16573", "audio": "data/eval/audio/16573.flac", "utt": "그 주소로 이메일 보내자", "intent": "email_sendemail", "scenario": "email", "speaker": "65125837372ffeccb5f91ac4", "duration": 1.98}
+{"id": "8132", "audio": "data/eval/audio/8132.flac", "utt": "내일 기차는 언제 운행해", "intent": "calendar_query", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.94}
+{"id": "2955", "audio": "data/eval/audio/2955.flac", "utt": "힙합 좋아", "intent": "music_likeness", "scenario": "music", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.7}
+{"id": "16407", "audio": "data/eval/audio/16407.flac", "utt": "이메일 보내자", "intent": "email_sendemail", "scenario": "email", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 1.92}
+{"id": "5290", "audio": "data/eval/audio/5290.flac", "utt": "밖에 날씨 어때", "intent": "weather_query", "scenario": "weather", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.12}
+{"id": "6249", "audio": "data/eval/audio/6249.flac", "utt": "넌 어디서 왔니", "intent": "general_quirky", "scenario": "general", "speaker": "652aede39bf7798b707544c9", "duration": 3.78}
+{"id": "10758", "audio": "data/eval/audio/10758.flac", "utt": "쇼핑 리스트 아이템 읽어줘", "intent": "lists_query", "scenario": "lists", "speaker": "59303adcdb68d70001ecd942", "duration": 2.52}
+{"id": "7458", "audio": "data/eval/audio/7458.flac", "utt": "낮 열두시 공항 픽업 하고 오후 세시 미팅 있는 거 기억해 둬", "intent": "calendar_set", "scenario": "calendar", "speaker": "65125837372ffeccb5f91ac4", "duration": 5.46}
+{"id": "2042", "audio": "data/eval/audio/2042.flac", "utt": "내일 회의 있어", "intent": "calendar_query", "scenario": "calendar", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.62}
+{"id": "12505", "audio": "data/eval/audio/12505.flac", "utt": "부산 가는 다음 무궁화 열차 언제야", "intent": "transport_query", "scenario": "transport", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.94}
+{"id": "601", "audio": "data/eval/audio/601.flac", "utt": "알람 시작", "intent": "alarm_set", "scenario": "alarm", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 1.98}
+{"id": "7255", "audio": "data/eval/audio/7255.flac", "utt": "내가 내일 취소해야 할 일정이 뭐 있어", "intent": "calendar_remove", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 6.18}
+{"id": "5242", "audio": "data/eval/audio/5242.flac", "utt": "욕실 조명 꺼 주세요", "intent": "iot_hue_lightoff", "scenario": "iot", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.16}
+{"id": "7279", "audio": "data/eval/audio/7279.flac", "utt": "다음 주 월요일 세탁물 가져가기 나한테 알려줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.66}
+{"id": "13185", "audio": "data/eval/audio/13185.flac", "utt": "인천 에서 전주 까지 거리 계산", "intent": "qa_factoid", "scenario": "qa", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.68}
+{"id": "2069", "audio": "data/eval/audio/2069.flac", "utt": "음소거 버튼 눌러", "intent": "audio_volume_mute", "scenario": "audio", "speaker": "652aede39bf7798b707544c9", "duration": 4.68}
+{"id": "11063", "audio": "data/eval/audio/11063.flac", "utt": "내 목록을 읽어 줄래", "intent": "lists_query", "scenario": "lists", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.24}
+{"id": "14617", "audio": "data/eval/audio/14617.flac", "utt": "송혜교 와 송중기 가 언제 결혼했어", "intent": "qa_factoid", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.24}
+{"id": "5690", "audio": "data/eval/audio/5690.flac", "utt": "브레이브걸스", "intent": "play_music", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 5.22}
+{"id": "8101", "audio": "data/eval/audio/8101.flac", "utt": "일정 조정을 위해 내 약속들을 이메일 보내", "intent": "email_sendemail", "scenario": "email", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 8.04}
+{"id": "3439", "audio": "data/eval/audio/3439.flac", "utt": "로맨틱 플레이리스트 재생", "intent": "play_music", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 4.74}
+{"id": "12441", "audio": "data/eval/audio/12441.flac", "utt": "집 에서 회사 까지 교통상황은 어떠니", "intent": "transport_traffic", "scenario": "transport", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.02}
+{"id": "4600", "audio": "data/eval/audio/4600.flac", "utt": "어떤 케이터링 패키지를 이용할 수 있는지 말해주세요", "intent": "takeaway_query", "scenario": "takeaway", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.74}
+{"id": "8078", "audio": "data/eval/audio/8078.flac", "utt": "오후 한시 뽀삐애견샵 가서 개를 데려오기 리마인더 보내 줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 5.1}
+{"id": "15861", "audio": "data/eval/audio/15861.flac", "utt": "엄마에게 제목은 날씨 내용은 이번 주 거기 날씨가 어떨까요라는 이메일 보내", "intent": "email_sendemail", "scenario": "email", "speaker": "5cd875edf7470b0016e9ca83", "duration": 6.42}
+{"id": "6404", "audio": "data/eval/audio/6404.flac", "utt": "그걸 기록하고 싶을 때", "intent": "general_quirky", "scenario": "general", "speaker": "652aede39bf7798b707544c9", "duration": 5.4}
+{"id": "7401", "audio": "data/eval/audio/7401.flac", "utt": "내일 그녀와의 발렌타인 데이 추가", "intent": "calendar_set", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.66}
+{"id": "16877", "audio": "data/eval/audio/16877.flac", "utt": "내 받은편지함에 이메일 새로 온 거 있니", "intent": "email_query", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 7.14}
+{"id": "10616", "audio": "data/eval/audio/10616.flac", "utt": "내일 까지 새 목록 만들어", "intent": "lists_createoradd", "scenario": "lists", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.76}
+{"id": "5862", "audio": "data/eval/audio/5862.flac", "utt": "오늘이 진주 에서 제일 더운 날인가", "intent": "weather_query", "scenario": "weather", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.12}
+{"id": "2464", "audio": "data/eval/audio/2464.flac", "utt": "조명 꺼 줘", "intent": "iot_hue_lightoff", "scenario": "iot", "speaker": "65125837372ffeccb5f91ac4", "duration": 1.74}
+{"id": "7653", "audio": "data/eval/audio/7653.flac", "utt": "사월 이십일 오빠 생일 알려줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "59303adcdb68d70001ecd942", "duration": 2.76}
+{"id": "817", "audio": "data/eval/audio/817.flac", "utt": "오케이 구글 음악 좀 틀어줘", "intent": "play_music", "scenario": "play", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.3}
+{"id": "6314", "audio": "data/eval/audio/6314.flac", "utt": "무슨 일이 있어", "intent": "general_quirky", "scenario": "general", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 3.6}
+{"id": "12617", "audio": "data/eval/audio/12617.flac", "utt": "부산 가는 기차 표 한 장 사는 거에 대한 정보 좀 보내봐", "intent": "transport_query", "scenario": "transport", "speaker": "59303adcdb68d70001ecd942", "duration": 4.92}
+{"id": "1196", "audio": "data/eval/audio/1196.flac", "utt": "오늘 기상 상황은 어때", "intent": "weather_query", "scenario": "weather", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.52}
+{"id": "8258", "audio": "data/eval/audio/8258.flac", "utt": "강남대로 콘서트 대해서 더 알려줘", "intent": "calendar_query", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.76}
+{"id": "14654", "audio": "data/eval/audio/14654.flac", "utt": "내 로봇이 나 대신 일할 수 있다면 좋겠어", "intent": "general_quirky", "scenario": "general", "speaker": "59303adcdb68d70001ecd942", "duration": 4.68}
+{"id": "1696", "audio": "data/eval/audio/1696.flac", "utt": "지금 나오는 음악 가수가 누구야", "intent": "music_query", "scenario": "music", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.06}
+{"id": "14861", "audio": "data/eval/audio/14861.flac", "utt": "오 u. s. d. 는 a. u. d. 로는 얼마야", "intent": "qa_currency", "scenario": "qa", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 6.42}
+{"id": "5184", "audio": "data/eval/audio/5184.flac", "utt": "올리야 박근혜 관련 뉴스 알려줘", "intent": "news_query", "scenario": "news", "speaker": "652aede39bf7798b707544c9", "duration": 5.4}
+{"id": "6991", "audio": "data/eval/audio/6991.flac", "utt": "최근 이벤트", "intent": "calendar_query", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.86}
+{"id": "10988", "audio": "data/eval/audio/10988.flac", "utt": "여행 목록에서 신문사에 전화하기 삭제해줘", "intent": "lists_remove", "scenario": "lists", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.74}
+{"id": "1349", "audio": "data/eval/audio/1349.flac", "utt": "이번 주 날씨 어떨 것 같아", "intent": "weather_query", "scenario": "weather", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.64}
+{"id": "16699", "audio": "data/eval/audio/16699.flac", "utt": "어제 언니한테서 온 이메일을 열어서 답장쓰기를 클릭하고 음성 기능을 켜 줘", "intent": "email_sendemail", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 9.72}
+{"id": "13024", "audio": "data/eval/audio/13024.flac", "utt": "친구에게 이메일 보내", "intent": "email_sendemail", "scenario": "email", "speaker": "59303adcdb68d70001ecd942", "duration": 2.34}
+{"id": "2665", "audio": "data/eval/audio/2665.flac", "utt": "경주 시의회는 노숙자에대해 뭘 하는 거야", "intent": "news_query", "scenario": "news", "speaker": "59303adcdb68d70001ecd942", "duration": 4.44}
+{"id": "3768", "audio": "data/eval/audio/3768.flac", "utt": "재즈 좀 듣고 싶어", "intent": "play_music", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 4.56}
+{"id": "11729", "audio": "data/eval/audio/11729.flac", "utt": "내장산 국립공원 방문할 동안 할 일 목록을 만들어", "intent": "recommendation_events", "scenario": "recommendation", "speaker": "5cd875edf7470b0016e9ca83", "duration": 4.74}
+{"id": "13355", "audio": "data/eval/audio/13355.flac", "utt": "방탕 정의해줘", "intent": "qa_definition", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.7}
+{"id": "3160", "audio": "data/eval/audio/3160.flac", "utt": "클래식 챔버 음악 플레이리스트 틀어", "intent": "play_music", "scenario": "play", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.66}
+{"id": "14952", "audio": "data/eval/audio/14952.flac", "utt": "현재 환율", "intent": "qa_currency", "scenario": "qa", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.26}
+{"id": "13284", "audio": "data/eval/audio/13284.flac", "utt": "벤올린의 이상한 수학책 스토리 말해줘", "intent": "qa_factoid", "scenario": "qa", "speaker": "652aede39bf7798b707544c9", "duration": 5.58}
+{"id": "11883", "audio": "data/eval/audio/11883.flac", "utt": "어느 깃발을 타는 것이 좋아", "intent": "recommendation_events", "scenario": "recommendation", "speaker": "59303adcdb68d70001ecd942", "duration": 2.94}
+{"id": "15219", "audio": "data/eval/audio/15219.flac", "utt": "이 기사 정말 쿨하네 이 링크 페이스북에 공유해 줄래", "intent": "social_post", "scenario": "social", "speaker": "5cd875edf7470b0016e9ca83", "duration": 4.14}
+{"id": "807", "audio": "data/eval/audio/807.flac", "utt": "커피 지금 만들어", "intent": "iot_coffee", "scenario": "iot", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.06}
+{"id": "7136", "audio": "data/eval/audio/7136.flac", "utt": "내일 약속 있으니 상기시켜줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.12}
+{"id": "3712", "audio": "data/eval/audio/3712.flac", "utt": "위 에서부터 나의 현재 재생 목록 틀어줘", "intent": "play_music", "scenario": "play", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.14}
+{"id": "8699", "audio": "data/eval/audio/8699.flac", "utt": "회의 를 위해 준비해야 돼", "intent": "calendar_query", "scenario": "calendar", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.74}
+{"id": "13354", "audio": "data/eval/audio/13354.flac", "utt": "이 더하기 이의 답은 뭐야", "intent": "qa_maths", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.06}
+{"id": "11160", "audio": "data/eval/audio/11160.flac", "utt": "난 계란은 필요 없어", "intent": "lists_remove", "scenario": "lists", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.64}
+{"id": "595", "audio": "data/eval/audio/595.flac", "utt": "양희은 의 아침 이슬 듣고 싶어", "intent": "play_music", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 5.64}
+{"id": "925", "audio": "data/eval/audio/925.flac", "utt": "조명 조금 낮춰주세요", "intent": "iot_hue_lightdim", "scenario": "iot", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.76}
+{"id": "11370", "audio": "data/eval/audio/11370.flac", "utt": "이진우 팟캐스트 듣고 싶어", "intent": "play_podcasts", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 5.28}
+{"id": "10037", "audio": "data/eval/audio/10037.flac", "utt": "좋은 요리 아이디어 줘 봐", "intent": "cooking_recipe", "scenario": "cooking", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.46}
+{"id": "6198", "audio": "data/eval/audio/6198.flac", "utt": "니가 날 알어", "intent": "general_quirky", "scenario": "general", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.04}
+{"id": "15630", "audio": "data/eval/audio/15630.flac", "utt": "내 인스타그램 계정에 최근 사진이 어떤 거지", "intent": "social_query", "scenario": "social", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.84}
+{"id": "10865", "audio": "data/eval/audio/10865.flac", "utt": "올리야 할 목록 중에서 나 뭐 해야 돼", "intent": "lists_query", "scenario": "lists", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.9}
+{"id": "10324", "audio": "data/eval/audio/10324.flac", "utt": "나랑 테트리스 하자", "intent": "play_game", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.16}
+{"id": "1365", "audio": "data/eval/audio/1365.flac", "utt": "볼륨 조금만 높여", "intent": "audio_volume_up", "scenario": "audio", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 1.86}
+{"id": "6920", "audio": "data/eval/audio/6920.flac", "utt": "삼월 육일 오전 열한시 친목회 알림 세팅해", "intent": "calendar_set", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 6.72}
+{"id": "2822", "audio": "data/eval/audio/2822.flac", "utt": "집 안 조명 빨간색 으로 만들어", "intent": "iot_hue_lightchange", "scenario": "iot", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.7}
+{"id": "10532", "audio": "data/eval/audio/10532.flac", "utt": "내가 만든 마지막 목록 다섯 개가 뭐였어", "intent": "lists_query", "scenario": "lists", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.72}
+{"id": "5696", "audio": "data/eval/audio/5696.flac", "utt": "집 청소 시작해", "intent": "iot_cleaning", "scenario": "iot", "speaker": "652aede39bf7798b707544c9", "duration": 5.04}
+{"id": "12149", "audio": "data/eval/audio/12149.flac", "utt": "올리 이번 금요일 오후 다섯 시 에 대전 으로 가는 k. t. x. 표 좀 예약해줘", "intent": "transport_ticket", "scenario": "transport", "speaker": "5cd875edf7470b0016e9ca83", "duration": 5.52}
+{"id": "8127", "audio": "data/eval/audio/8127.flac", "utt": "내 캘린더에 업무 교육 미팅 업데이트 해", "intent": "calendar_set", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.06}
+{"id": "5105", "audio": "data/eval/audio/5105.flac", "utt": "올리야 볼륨 크게 해 줘", "intent": "audio_volume_up", "scenario": "audio", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.4}
+{"id": "5362", "audio": "data/eval/audio/5362.flac", "utt": "다음 주 이십사일 무슨 요일이야", "intent": "datetime_query", "scenario": "datetime", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.88}
+{"id": "9889", "audio": "data/eval/audio/9889.flac", "utt": "알사탕 계속 읽어줘", "intent": "play_audiobook", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 4.44}
+{"id": "10928", "audio": "data/eval/audio/10928.flac", "utt": "내 목록을 읽어줘", "intent": "lists_query", "scenario": "lists", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.4}
+{"id": "14865", "audio": "data/eval/audio/14865.flac", "utt": "달 설명해봐", "intent": "qa_definition", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.86}
+{"id": "15538", "audio": "data/eval/audio/15538.flac", "utt": "고객센터 불만 사항 트윗 올려", "intent": "social_post", "scenario": "social", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.76}
+{"id": "480", "audio": "data/eval/audio/480.flac", "utt": "시간 말해줘", "intent": "datetime_query", "scenario": "datetime", "speaker": "59303adcdb68d70001ecd942", "duration": 1.8}
+{"id": "15090", "audio": "data/eval/audio/15090.flac", "utt": "미국과 멕시코 사이의 환율 알아봐줘", "intent": "qa_currency", "scenario": "qa", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.48}
+{"id": "12358", "audio": "data/eval/audio/12358.flac", "utt": "교통 상황을 알고 싶어", "intent": "transport_traffic", "scenario": "transport", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.52}
+{"id": "5386", "audio": "data/eval/audio/5386.flac", "utt": "지금 나오는 노래 뭐야", "intent": "music_query", "scenario": "music", "speaker": "59303adcdb68d70001ecd942", "duration": 2.22}
+{"id": "8896", "audio": "data/eval/audio/8896.flac", "utt": "오늘 내 일정 지워", "intent": "calendar_remove", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 4.86}
+{"id": "10397", "audio": "data/eval/audio/10397.flac", "utt": "나와 함께 포커 게임 할래", "intent": "play_game", "scenario": "play", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.94}
+{"id": "1698", "audio": "data/eval/audio/1698.flac", "utt": "나는 그 노래 끄고 싶지 않아", "intent": "music_dislikeness", "scenario": "music", "speaker": "59303adcdb68d70001ecd942", "duration": 2.4}
+{"id": "7345", "audio": "data/eval/audio/7345.flac", "utt": "칠월 십이일 윤희 생일 을 내 캘린더에 추가해", "intent": "calendar_set", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.44}
+{"id": "17082", "audio": "data/eval/audio/17082.flac", "utt": "오늘 진희한테서 새로 온 이메일이 있나", "intent": "email_query", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 6.18}
+{"id": "15014", "audio": "data/eval/audio/15014.flac", "utt": "일본 은 얼마나 커", "intent": "qa_factoid", "scenario": "qa", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.04}
+{"id": "14901", "audio": "data/eval/audio/14901.flac", "utt": "코끼리 를 설명해주시겠어요", "intent": "qa_definition", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.28}
+{"id": "10746", "audio": "data/eval/audio/10746.flac", "utt": "내 목록 에서 그 항목 삭제해", "intent": "lists_remove", "scenario": "lists", "speaker": "59303adcdb68d70001ecd942", "duration": 2.94}
+{"id": "13643", "audio": "data/eval/audio/13643.flac", "utt": "원문 을 어떻게 정의할래", "intent": "qa_definition", "scenario": "qa", "speaker": "652aede39bf7798b707544c9", "duration": 6.36}
+{"id": "9082", "audio": "data/eval/audio/9082.flac", "utt": "다음 날 이벤트 삭제해", "intent": "calendar_remove", "scenario": "calendar", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.58}
+{"id": "2144", "audio": "data/eval/audio/2144.flac", "utt": "내 생일 날 무슨 요일이었지", "intent": "datetime_query", "scenario": "datetime", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.7}
+{"id": "8282", "audio": "data/eval/audio/8282.flac", "utt": "내 달력 전부 지워 줘", "intent": "calendar_remove", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.64}
+{"id": "6188", "audio": "data/eval/audio/6188.flac", "utt": "돌로레스 당신은 당신의 세계에서 이상한 점을 발견했나요", "intent": "general_quirky", "scenario": "general", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 8.76}
+{"id": "2312", "audio": "data/eval/audio/2312.flac", "utt": "조명 칠 단계 로 낮춰줘", "intent": "iot_hue_lightdim", "scenario": "iot", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.0}
+{"id": "13935", "audio": "data/eval/audio/13935.flac", "utt": "빔 프로젝터 에 관해 설명해줘", "intent": "qa_definition", "scenario": "qa", "speaker": "652aede39bf7798b707544c9", "duration": 5.76}
+{"id": "12674", "audio": "data/eval/audio/12674.flac", "utt": "교통 상황 심해", "intent": "transport_traffic", "scenario": "transport", "speaker": "65125837372ffeccb5f91ac4", "duration": 1.86}
+{"id": "2196", "audio": "data/eval/audio/2196.flac", "utt": "날 행복하게 할 수 있는 농담 좀 해봐", "intent": "general_joke", "scenario": "general", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.0}
+{"id": "1625", "audio": "data/eval/audio/1625.flac", "utt": "오전 아니면 오후", "intent": "alarm_query", "scenario": "alarm", "speaker": "652aede39bf7798b707544c9", "duration": 4.68}
+{"id": "16770", "audio": "data/eval/audio/16770.flac", "utt": "연락처 찾기", "intent": "email_query", "scenario": "email", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.04}
+{"id": "7801", "audio": "data/eval/audio/7801.flac", "utt": "참석 메모 추가해", "intent": "calendar_set", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.1}
+{"id": "12039", "audio": "data/eval/audio/12039.flac", "utt": "내 지역 식당 물어봐", "intent": "recommendation_locations", "scenario": "recommendation", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.16}
+{"id": "9993", "audio": "data/eval/audio/9993.flac", "utt": "김치찌개 어떻게 요리해", "intent": "cooking_recipe", "scenario": "cooking", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.46}
+{"id": "2949", "audio": "data/eval/audio/2949.flac", "utt": "지금 노래 즐겨찾기 저장해줘", "intent": "music_likeness", "scenario": "music", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.0}
+{"id": "9136", "audio": "data/eval/audio/9136.flac", "utt": "금요일 무슨 미팅 있어", "intent": "calendar_query", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 4.86}
+{"id": "14930", "audio": "data/eval/audio/14930.flac", "utt": "이번 주 에 안철수 는 무슨 일 했어", "intent": "qa_factoid", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 12.42}
+{"id": "7627", "audio": "data/eval/audio/7627.flac", "utt": "내일 아침 피자 만들기 알려줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 7.26}
+{"id": "5142", "audio": "data/eval/audio/5142.flac", "utt": "이번 주 일기 예보 알려줄래", "intent": "weather_query", "scenario": "weather", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.4}
+{"id": "17140", "audio": "data/eval/audio/17140.flac", "utt": "방금 받은 이메일에 답장해", "intent": "email_sendemail", "scenario": "email", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.28}
+{"id": "3018", "audio": "data/eval/audio/3018.flac", "utt": "음식 찾아줘", "intent": "takeaway_query", "scenario": "takeaway", "speaker": "652aede39bf7798b707544c9", "duration": 3.78}
+{"id": "12408", "audio": "data/eval/audio/12408.flac", "utt": "가장 가까운 애플 매장 가는 길", "intent": "transport_query", "scenario": "transport", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.88}
+{"id": "4161", "audio": "data/eval/audio/4161.flac", "utt": "오늘 밤 중국 음식 배달 주문하고 싶어", "intent": "takeaway_order", "scenario": "takeaway", "speaker": "652aede39bf7798b707544c9", "duration": 6.0}
+{"id": "13469", "audio": "data/eval/audio/13469.flac", "utt": "제일 좋아하는 색깔이 뭐야", "intent": "general_quirky", "scenario": "general", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.94}
+{"id": "6009", "audio": "data/eval/audio/6009.flac", "utt": "언제 중국 음식을 가져올 수 있어", "intent": "takeaway_query", "scenario": "takeaway", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.18}
+{"id": "16774", "audio": "data/eval/audio/16774.flac", "utt": "내 이메일 불러와", "intent": "email_query", "scenario": "email", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.84}
+{"id": "1544", "audio": "data/eval/audio/1544.flac", "utt": "기분 업 되는 음악 듣고싶어", "intent": "play_music", "scenario": "play", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.92}
+{"id": "3281", "audio": "data/eval/audio/3281.flac", "utt": "올리 조명 낮춰줘", "intent": "iot_hue_lightdim", "scenario": "iot", "speaker": "652aede39bf7798b707544c9", "duration": 4.56}
+{"id": "6898", "audio": "data/eval/audio/6898.flac", "utt": "내 달력에서 모든 일정 삭제해 줘", "intent": "calendar_remove", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 5.58}
+{"id": "4134", "audio": "data/eval/audio/4134.flac", "utt": "spotify 로딩", "intent": "play_music", "scenario": "play", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.58}
+{"id": "7747", "audio": "data/eval/audio/7747.flac", "utt": "내 캘린더에 있는 일정 모두 지워", "intent": "calendar_remove", "scenario": "calendar", "speaker": "59303adcdb68d70001ecd942", "duration": 3.3}
+{"id": "11119", "audio": "data/eval/audio/11119.flac", "utt": "나의 업무 목록 볼 수 있어", "intent": "lists_query", "scenario": "lists", "speaker": "59303adcdb68d70001ecd942", "duration": 2.52}
+{"id": "12174", "audio": "data/eval/audio/12174.flac", "utt": "지금 카카오택시 불러줘", "intent": "transport_taxi", "scenario": "transport", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.24}
+{"id": "13544", "audio": "data/eval/audio/13544.flac", "utt": "젤리는 칼로리가 없어", "intent": "qa_factoid", "scenario": "qa", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.82}
+{"id": "11615", "audio": "data/eval/audio/11615.flac", "utt": "메가박스에서 상영하는 영화 뭐 있어", "intent": "recommendation_movies", "scenario": "recommendation", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.82}
+{"id": "16885", "audio": "data/eval/audio/16885.flac", "utt": "강희숙에게 이메일 보내서 딘이 마지막 숙제를 제출했는지 물어봐줘", "intent": "email_sendemail", "scenario": "email", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 5.34}
+{"id": "6948", "audio": "data/eval/audio/6948.flac", "utt": "나 이번 주 미팅 몇 개 있어", "intent": "calendar_query", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.28}
+{"id": "12550", "audio": "data/eval/audio/12550.flac", "utt": "에버랜드 가는 길 방향", "intent": "transport_query", "scenario": "transport", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.0}
+{"id": "12764", "audio": "data/eval/audio/12764.flac", "utt": "기차 표 한 장 예매해줘", "intent": "transport_ticket", "scenario": "transport", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.7}
+{"id": "2515", "audio": "data/eval/audio/2515.flac", "utt": "이번 주 날씨 알려줘", "intent": "weather_query", "scenario": "weather", "speaker": "59303adcdb68d70001ecd942", "duration": 2.64}
+{"id": "14527", "audio": "data/eval/audio/14527.flac", "utt": "내가 받을 외환 환율", "intent": "qa_currency", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.7}
+{"id": "15462", "audio": "data/eval/audio/15462.flac", "utt": "가구점 고객 서비스 에 불만사항 트윗 올려줄래", "intent": "social_post", "scenario": "social", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 5.16}
+{"id": "5352", "audio": "data/eval/audio/5352.flac", "utt": "내 플레이리스트 에서 재생해줘", "intent": "play_music", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.54}
+{"id": "10415", "audio": "data/eval/audio/10415.flac", "utt": "오목 하자", "intent": "play_game", "scenario": "play", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 4.38}
+{"id": "2553", "audio": "data/eval/audio/2553.flac", "utt": "발렌타인데이 가 무슨 요일이지", "intent": "datetime_query", "scenario": "datetime", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.64}
+{"id": "8543", "audio": "data/eval/audio/8543.flac", "utt": "나 해야되는 이벤트 뭐야", "intent": "calendar_query", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 5.82}
+{"id": "2901", "audio": "data/eval/audio/2901.flac", "utt": "카페페라 주문 넣어줘", "intent": "takeaway_order", "scenario": "takeaway", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.58}
+{"id": "2420", "audio": "data/eval/audio/2420.flac", "utt": "뉴스 익스프레스 새로운 소식이 뭐야", "intent": "news_query", "scenario": "news", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.58}
+{"id": "15265", "audio": "data/eval/audio/15265.flac", "utt": "팔로워 전체 숫자 포함해서 트위터 계정 세부 사항 알려줘", "intent": "social_query", "scenario": "social", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.44}
+{"id": "3340", "audio": "data/eval/audio/3340.flac", "utt": "ok google 날씨 어때", "intent": "weather_query", "scenario": "weather", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.52}
+{"id": "10301", "audio": "data/eval/audio/10301.flac", "utt": "상식 게임 하고 싶어", "intent": "play_game", "scenario": "play", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.82}
+{"id": "14989", "audio": "data/eval/audio/14989.flac", "utt": "세계 에서 가장 작은 섬은 어디야", "intent": "qa_factoid", "scenario": "qa", "speaker": "652aede39bf7798b707544c9", "duration": 5.94}
+{"id": "2741", "audio": "data/eval/audio/2741.flac", "utt": "내가 가장 좋아하는 식당은 배달을 하나요", "intent": "takeaway_query", "scenario": "takeaway", "speaker": "59303adcdb68d70001ecd942", "duration": 3.54}
+{"id": "11899", "audio": "data/eval/audio/11899.flac", "utt": "오늘 볼 만한 게 뭐가 있어", "intent": "recommendation_movies", "scenario": "recommendation", "speaker": "59303adcdb68d70001ecd942", "duration": 2.52}
+{"id": "3464", "audio": "data/eval/audio/3464.flac", "utt": "모든 야외 조명 켜 주세요", "intent": "iot_hue_lighton", "scenario": "iot", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.88}
+{"id": "7505", "audio": "data/eval/audio/7505.flac", "utt": "앞으로의 일정 뭐 있어", "intent": "calendar_query", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 4.98}
+{"id": "14218", "audio": "data/eval/audio/14218.flac", "utt": "일 피트는 몇 인치야", "intent": "qa_maths", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.46}
+{"id": "3973", "audio": "data/eval/audio/3973.flac", "utt": "지금 현재 k. 리그에서 가장 탑은 누구인지 알고 싶어", "intent": "news_query", "scenario": "news", "speaker": "652aede39bf7798b707544c9", "duration": 7.74}
+{"id": "15047", "audio": "data/eval/audio/15047.flac", "utt": "헤이 올리 수동적 의 의미가 뭐야", "intent": "qa_definition", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.54}
+{"id": "8803", "audio": "data/eval/audio/8803.flac", "utt": "알람 설정해주세요", "intent": "alarm_set", "scenario": "alarm", "speaker": "652aede39bf7798b707544c9", "duration": 4.8}
+{"id": "15572", "audio": "data/eval/audio/15572.flac", "utt": "버거킹에 불만 트윗 날려", "intent": "social_post", "scenario": "social", "speaker": "59303adcdb68d70001ecd942", "duration": 2.82}
+{"id": "439", "audio": "data/eval/audio/439.flac", "utt": "오늘 재킷 입어야 하나", "intent": "weather_query", "scenario": "weather", "speaker": "59303adcdb68d70001ecd942", "duration": 2.4}
+{"id": "14737", "audio": "data/eval/audio/14737.flac", "utt": "오케이 구글 칠면조를 요리하는 가장 쉽고 빠른 방법이 뭐야", "intent": "cooking_query", "scenario": "cooking", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 5.1}
+{"id": "5884", "audio": "data/eval/audio/5884.flac", "utt": "음악 들으려고", "intent": "play_music", "scenario": "play", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 3.9}
+{"id": "4979", "audio": "data/eval/audio/4979.flac", "utt": "더 조용히 말해줘", "intent": "audio_volume_down", "scenario": "audio", "speaker": "652aede39bf7798b707544c9", "duration": 4.56}
+{"id": "11181", "audio": "data/eval/audio/11181.flac", "utt": "내 작업 일정", "intent": "calendar_query", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.74}
+{"id": "12368", "audio": "data/eval/audio/12368.flac", "utt": "단양 어떻게 가", "intent": "transport_query", "scenario": "transport", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.16}
+{"id": "127", "audio": "data/eval/audio/127.flac", "utt": "오늘 무슨 날이야", "intent": "datetime_query", "scenario": "datetime", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.98}
+{"id": "5699", "audio": "data/eval/audio/5699.flac", "utt": "출근할 때 재킷 입어야 할까", "intent": "weather_query", "scenario": "weather", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.34}
+{"id": "8619", "audio": "data/eval/audio/8619.flac", "utt": "매달 십오일 인터넷 요금 내는 거 리마인더 세팅해", "intent": "calendar_set", "scenario": "calendar", "speaker": "59303adcdb68d70001ecd942", "duration": 4.74}
+{"id": "12656", "audio": "data/eval/audio/12656.flac", "utt": "내일 아침 여덟시 에 회사 로 나를 데려다 줄 택시 가 필요해", "intent": "transport_taxi", "scenario": "transport", "speaker": "652aede39bf7798b707544c9", "duration": 9.24}
+{"id": "7184", "audio": "data/eval/audio/7184.flac", "utt": "토요일 오후 열시 에 민지 생일 가고 싶어", "intent": "calendar_set", "scenario": "calendar", "speaker": "59303adcdb68d70001ecd942", "duration": 3.84}
+{"id": "8434", "audio": "data/eval/audio/8434.flac", "utt": "내 달력에서 오후 한시 행사 삭제해", "intent": "calendar_remove", "scenario": "calendar", "speaker": "59303adcdb68d70001ecd942", "duration": 3.54}
+{"id": "11014", "audio": "data/eval/audio/11014.flac", "utt": "아이템 목록에 포함시켜", "intent": "lists_createoradd", "scenario": "lists", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.82}
+{"id": "2514", "audio": "data/eval/audio/2514.flac", "utt": "이번 주 날씨 어때", "intent": "weather_query", "scenario": "weather", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.82}
+{"id": "13100", "audio": "data/eval/audio/13100.flac", "utt": "세계 에서 가장 긴 건물은 뭐야", "intent": "qa_factoid", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.12}
+{"id": "3721", "audio": "data/eval/audio/3721.flac", "utt": "짐바브웨 는 지금 몇 시야", "intent": "datetime_query", "scenario": "datetime", "speaker": "652aede39bf7798b707544c9", "duration": 7.74}
+{"id": "16821", "audio": "data/eval/audio/16821.flac", "utt": "현수의 연락처 정보 를 열어 줘", "intent": "email_querycontact", "scenario": "email", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.3}
+{"id": "42", "audio": "data/eval/audio/42.flac", "utt": "사용 가능한 메모리 상태 알려줘", "intent": "general_quirky", "scenario": "general", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.24}
+{"id": "12165", "audio": "data/eval/audio/12165.flac", "utt": "천안 하고 서울 사이 기차 일반석 예약해줘", "intent": "transport_ticket", "scenario": "transport", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 6.36}
+{"id": "14421", "audio": "data/eval/audio/14421.flac", "utt": "가장 가까운 이탈리안 레스토랑 어디냐", "intent": "recommendation_locations", "scenario": "recommendation", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 6.3}
+{"id": "9816", "audio": "data/eval/audio/9816.flac", "utt": "오디오북 에서 이 재생항목 찾아서 플레이해줘", "intent": "play_audiobook", "scenario": "play", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.54}
+{"id": "4008", "audio": "data/eval/audio/4008.flac", "utt": "반복 기능 켜", "intent": "music_settings", "scenario": "music", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.58}
+{"id": "1015", "audio": "data/eval/audio/1015.flac", "utt": "헤드라인으로 가줄래", "intent": "news_query", "scenario": "news", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.76}
+{"id": "7131", "audio": "data/eval/audio/7131.flac", "utt": "내 달력에서 십일 에 있는 결혼식 이벤트 삭제해", "intent": "calendar_remove", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 4.62}
+{"id": "3970", "audio": "data/eval/audio/3970.flac", "utt": "지금 날씨 어때", "intent": "weather_query", "scenario": "weather", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.04}
+{"id": "1576", "audio": "data/eval/audio/1576.flac", "utt": "올리 청소기 돌려줘", "intent": "iot_cleaning", "scenario": "iot", "speaker": "59303adcdb68d70001ecd942", "duration": 2.4}
+{"id": "5567", "audio": "data/eval/audio/5567.flac", "utt": "오월 이십 오일 오후 다섯시 에 알람 맞춰", "intent": "alarm_set", "scenario": "alarm", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.88}
+{"id": "2483", "audio": "data/eval/audio/2483.flac", "utt": "불 전부 어둡게 해줘", "intent": "iot_hue_lightdim", "scenario": "iot", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.52}
+{"id": "15301", "audio": "data/eval/audio/15301.flac", "utt": "유행하는 소셜 미디어", "intent": "social_query", "scenario": "social", "speaker": "652aede39bf7798b707544c9", "duration": 4.5}
+{"id": "14301", "audio": "data/eval/audio/14301.flac", "utt": "오늘 하이브 주식 어때", "intent": "qa_stock", "scenario": "qa", "speaker": "652aede39bf7798b707544c9", "duration": 5.82}
+{"id": "10925", "audio": "data/eval/audio/10925.flac", "utt": "나의 계류 중 법안들 목록 새로 만들어줘", "intent": "lists_createoradd", "scenario": "lists", "speaker": "59303adcdb68d70001ecd942", "duration": 4.32}
+{"id": "7846", "audio": "data/eval/audio/7846.flac", "utt": "이번 주에는 무슨 리마인더가 있지", "intent": "calendar_query", "scenario": "calendar", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.4}
+{"id": "885", "audio": "data/eval/audio/885.flac", "utt": "알람 설정 오전 여덟시", "intent": "alarm_set", "scenario": "alarm", "speaker": "652aede39bf7798b707544c9", "duration": 7.44}
+{"id": "6158", "audio": "data/eval/audio/6158.flac", "utt": "청소기 켜 줘", "intent": "iot_cleaning", "scenario": "iot", "speaker": "652aede39bf7798b707544c9", "duration": 3.78}
+{"id": "7164", "audio": "data/eval/audio/7164.flac", "utt": "오후 네시", "intent": "calendar_set", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 1.38}
+{"id": "3270", "audio": "data/eval/audio/3270.flac", "utt": "내일 로 설정된 알람 제거", "intent": "alarm_remove", "scenario": "alarm", "speaker": "652aede39bf7798b707544c9", "duration": 11.7}
+{"id": "1928", "audio": "data/eval/audio/1928.flac", "utt": "음악 재생", "intent": "play_music", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 3.72}
+{"id": "5183", "audio": "data/eval/audio/5183.flac", "utt": "농담해주세요", "intent": "general_joke", "scenario": "general", "speaker": "652aede39bf7798b707544c9", "duration": 3.78}
+{"id": "17006", "audio": "data/eval/audio/17006.flac", "utt": "새 이메일들 있어", "intent": "email_query", "scenario": "email", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.4}
+{"id": "11928", "audio": "data/eval/audio/11928.flac", "utt": "부산에 무슨 일이 있어", "intent": "recommendation_events", "scenario": "recommendation", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 5.7}
+{"id": "8047", "audio": "data/eval/audio/8047.flac", "utt": "이 월 십사 일 식당 에서 저녁 식사 해", "intent": "calendar_set", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.54}
+{"id": "15986", "audio": "data/eval/audio/15986.flac", "utt": "연락처에 이 이메일 주소 입력해", "intent": "email_addcontact", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 5.76}
+{"id": "2851", "audio": "data/eval/audio/2851.flac", "utt": "미스터피자 테이크아웃 되지", "intent": "takeaway_query", "scenario": "takeaway", "speaker": "652aede39bf7798b707544c9", "duration": 5.52}
+{"id": "15558", "audio": "data/eval/audio/15558.flac", "utt": "내가 아프다고 페이스북 에 게시해줘", "intent": "social_post", "scenario": "social", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.62}
+{"id": "14565", "audio": "data/eval/audio/14565.flac", "utt": "오늘 미국의 가장 걱정되는 문제는 뭐야 그리고 그걸 효율적으로 해결하려면 뭘 해야 해", "intent": "general_quirky", "scenario": "general", "speaker": "65125837372ffeccb5f91ac4", "duration": 6.12}
+{"id": "7300", "audio": "data/eval/audio/7300.flac", "utt": "내일 아버지 방문 리마인더에 추가", "intent": "calendar_set", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.06}
+{"id": "14803", "audio": "data/eval/audio/14803.flac", "utt": "너는 새로운 계략을 갖고 있었지", "intent": "general_quirky", "scenario": "general", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.64}
+{"id": "16454", "audio": "data/eval/audio/16454.flac", "utt": "상사한테 이메일 보재서 나 늦을거라고 말해줘", "intent": "email_sendemail", "scenario": "email", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 5.4}
+{"id": "2993", "audio": "data/eval/audio/2993.flac", "utt": "다음 노래 재생", "intent": "play_music", "scenario": "play", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.16}
+{"id": "3754", "audio": "data/eval/audio/3754.flac", "utt": "케이티 가장 최신 뉴스가 뭐있지", "intent": "news_query", "scenario": "news", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 6.24}
+{"id": "14574", "audio": "data/eval/audio/14574.flac", "utt": "미국 의 이십오 번째 대통령은 누구야", "intent": "qa_factoid", "scenario": "qa", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.88}
+{"id": "14458", "audio": "data/eval/audio/14458.flac", "utt": "폭스바겐 골프 차 어떻게 생겼어", "intent": "qa_definition", "scenario": "qa", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.02}
+{"id": "16160", "audio": "data/eval/audio/16160.flac", "utt": "답장을 열어줘", "intent": "email_sendemail", "scenario": "email", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 1.8}
+{"id": "13522", "audio": "data/eval/audio/13522.flac", "utt": "언젠가 세상이 끝날 거 같니", "intent": "general_quirky", "scenario": "general", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.48}
+{"id": "5666", "audio": "data/eval/audio/5666.flac", "utt": "날씨는 비트당 초를 계산해 업데이트 되었습니다. 하루날씨 혹은 웨더뉴스 예보 둘 다 내 사이트에는 별로입니다.", "intent": "weather_query", "scenario": "weather", "speaker": "5cd875edf7470b0016e9ca83", "duration": 8.04}
+{"id": "9593", "audio": "data/eval/audio/9593.flac", "utt": "오후 아홉 시 에 내가 좋아하는 방송국 켜", "intent": "play_radio", "scenario": "play", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.48}
+{"id": "9375", "audio": "data/eval/audio/9375.flac", "utt": "구십오 점 구 틀어", "intent": "play_radio", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 4.62}
+{"id": "2720", "audio": "data/eval/audio/2720.flac", "utt": "다섯 시 삼십 분 알람 맞춰줘", "intent": "alarm_set", "scenario": "alarm", "speaker": "652aede39bf7798b707544c9", "duration": 5.94}
+{"id": "15242", "audio": "data/eval/audio/15242.flac", "utt": "페이스북 상태에 바쁜 하루라고 해", "intent": "social_post", "scenario": "social", "speaker": "59303adcdb68d70001ecd942", "duration": 3.06}
+{"id": "15632", "audio": "data/eval/audio/15632.flac", "utt": "moe's diner의 서비스가 최악이라고 트윗 해", "intent": "social_post", "scenario": "social", "speaker": "59303adcdb68d70001ecd942", "duration": 4.2}
+{"id": "11980", "audio": "data/eval/audio/11980.flac", "utt": "경주에서 진행하는 이벤트 다 보여 줘", "intent": "recommendation_events", "scenario": "recommendation", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.3}
+{"id": "13228", "audio": "data/eval/audio/13228.flac", "utt": "만약 내 자신을 부자로 만들 수 있는 쉬운 열가지 스텝이 있다면 무엇일까", "intent": "general_quirky", "scenario": "general", "speaker": "652aede39bf7798b707544c9", "duration": 15.24}
+{"id": "1678", "audio": "data/eval/audio/1678.flac", "utt": "구 백 구 십 f. m. 라디오에서 나오는 음악 뭐야", "intent": "music_query", "scenario": "music", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.9}
+{"id": "12380", "audio": "data/eval/audio/12380.flac", "utt": "아산 가는 기차 표 다시 구해줘", "intent": "transport_ticket", "scenario": "transport", "speaker": "652aede39bf7798b707544c9", "duration": 9.36}
+{"id": "11562", "audio": "data/eval/audio/11562.flac", "utt": "이 팟캐스트 듣고 싶어", "intent": "play_podcasts", "scenario": "play", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 1.98}
+{"id": "12706", "audio": "data/eval/audio/12706.flac", "utt": "이 시간 으로 기차 표 예약해줘", "intent": "transport_ticket", "scenario": "transport", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.76}
+{"id": "1223", "audio": "data/eval/audio/1223.flac", "utt": "화요일 일기 예보는 어때", "intent": "weather_query", "scenario": "weather", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.88}
+{"id": "2467", "audio": "data/eval/audio/2467.flac", "utt": "문재인 관련 최신 속보 얻을 수 있을까", "intent": "news_query", "scenario": "news", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.6}
+{"id": "4810", "audio": "data/eval/audio/4810.flac", "utt": "시간대 변경", "intent": "datetime_convert", "scenario": "datetime", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 3.72}
+{"id": "10364", "audio": "data/eval/audio/10364.flac", "utt": "게임들 하자", "intent": "play_game", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 3.72}
+{"id": "5816", "audio": "data/eval/audio/5816.flac", "utt": "내 고향 의 날씨", "intent": "weather_query", "scenario": "weather", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.18}
+{"id": "16394", "audio": "data/eval/audio/16394.flac", "utt": "누가 최근에 내게 이메일을 보냈고 무엇에 대한 내용이었지", "intent": "email_query", "scenario": "email", "speaker": "65125837372ffeccb5f91ac4", "duration": 4.74}
+{"id": "7517", "audio": "data/eval/audio/7517.flac", "utt": "화요일 회의 스케줄잡아", "intent": "calendar_set", "scenario": "calendar", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.36}
+{"id": "15897", "audio": "data/eval/audio/15897.flac", "utt": "영희 골뱅이 지메일 닷컴으로 새 해 복 많이 받아라고 메일 보내", "intent": "email_sendemail", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 9.06}
+{"id": "6144", "audio": "data/eval/audio/6144.flac", "utt": "다음 달 날씨 알려줘", "intent": "weather_query", "scenario": "weather", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.12}
+{"id": "13227", "audio": "data/eval/audio/13227.flac", "utt": "나 자신을 더 행복하게 하기 위해 내가 할 수 있는 모든 일을 요약해", "intent": "general_quirky", "scenario": "general", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 4.32}
+{"id": "4301", "audio": "data/eval/audio/4301.flac", "utt": "윤도현밴드 음악 틀어줘", "intent": "play_music", "scenario": "play", "speaker": "65125837372ffeccb5f91ac4", "duration": 2.76}
+{"id": "8578", "audio": "data/eval/audio/8578.flac", "utt": "오늘 여덟시부터 열시까지 무슨 회의 있어", "intent": "calendar_query", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.72}
+{"id": "15639", "audio": "data/eval/audio/15639.flac", "utt": "배수구 막힘에 대한 불만을 트윗 해", "intent": "social_post", "scenario": "social", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.3}
+{"id": "8014", "audio": "data/eval/audio/8014.flac", "utt": "내 달력에 오늘 미팅이 있는지 찾아줘", "intent": "calendar_query", "scenario": "calendar", "speaker": "652aede39bf7798b707544c9", "duration": 5.88}
+{"id": "806", "audio": "data/eval/audio/806.flac", "utt": "모든 스피커 볼륨 줄여주세요", "intent": "audio_volume_down", "scenario": "audio", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.76}
+{"id": "1268", "audio": "data/eval/audio/1268.flac", "utt": "너가 알려준 스테이크 요리법 최고였어", "intent": "cooking_recipe", "scenario": "cooking", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.12}
+{"id": "4941", "audio": "data/eval/audio/4941.flac", "utt": "태풍 관련 뉴스 업데이트 해줘", "intent": "news_query", "scenario": "news", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.7}
+{"id": "15761", "audio": "data/eval/audio/15761.flac", "utt": "새 이메일을 받으면 알려줘", "intent": "email_query", "scenario": "email", "speaker": "652aede39bf7798b707544c9", "duration": 5.4}
+{"id": "11064", "audio": "data/eval/audio/11064.flac", "utt": "내 목록에 뭐 있어", "intent": "lists_query", "scenario": "lists", "speaker": "59303adcdb68d70001ecd942", "duration": 2.16}
+{"id": "4424", "audio": "data/eval/audio/4424.flac", "utt": "이번 주 는 주말 내내 비가 올까", "intent": "weather_query", "scenario": "weather", "speaker": "59303adcdb68d70001ecd942", "duration": 2.82}
+{"id": "4745", "audio": "data/eval/audio/4745.flac", "utt": "나 괴짜 농담 해줘", "intent": "general_joke", "scenario": "general", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 2.46}
+{"id": "5494", "audio": "data/eval/audio/5494.flac", "utt": "문재인 대통령의 대중 연설에 대한 최신 여론조사는 무엇이니", "intent": "news_query", "scenario": "news", "speaker": "652aede39bf7798b707544c9", "duration": 6.84}
+{"id": "11096", "audio": "data/eval/audio/11096.flac", "utt": "이선희 음악 목록 삭제해", "intent": "lists_remove", "scenario": "lists", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.18}
+{"id": "14479", "audio": "data/eval/audio/14479.flac", "utt": "태양과 달의 거리 알려줘", "intent": "qa_factoid", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.28}
+{"id": "5182", "audio": "data/eval/audio/5182.flac", "utt": "목요일 에 여전히 바람이 불까", "intent": "weather_query", "scenario": "weather", "speaker": "59303adcdb68d70001ecd942", "duration": 2.94}
+{"id": "9299", "audio": "data/eval/audio/9299.flac", "utt": "f.m. 팔십구 점 일 라디오 채널 틀어줄 수 있어", "intent": "play_radio", "scenario": "play", "speaker": "65125837372ffeccb5f91ac4", "duration": 4.02}
+{"id": "14144", "audio": "data/eval/audio/14144.flac", "utt": "유로 대 미국 달러", "intent": "qa_currency", "scenario": "qa", "speaker": "652aede39bf7798b707544c9", "duration": 4.68}
+{"id": "9996", "audio": "data/eval/audio/9996.flac", "utt": "데이트 에서 요리하기에 가장 섹시한 요리는 뭘까", "intent": "cooking_recipe", "scenario": "cooking", "speaker": "65125837372ffeccb5f91ac4", "duration": 3.72}
+{"id": "10295", "audio": "data/eval/audio/10295.flac", "utt": "내 축구 게임 다섯번째 레벨 부터 시작할래", "intent": "play_game", "scenario": "play", "speaker": "65125837372ffeccb5f91ac4", "duration": 4.14}
+{"id": "4302", "audio": "data/eval/audio/4302.flac", "utt": "박재범 의 가장 최근 앨범 재생해", "intent": "play_music", "scenario": "play", "speaker": "652aede39bf7798b707544c9", "duration": 6.0}
+{"id": "5175", "audio": "data/eval/audio/5175.flac", "utt": "이번 주 날씨 어떨 것 같아", "intent": "weather_query", "scenario": "weather", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.42}
+{"id": "6120", "audio": "data/eval/audio/6120.flac", "utt": "플로리다 올랜도 는 몇 시야", "intent": "datetime_query", "scenario": "datetime", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.0}
+{"id": "11945", "audio": "data/eval/audio/11945.flac", "utt": "이 지역에서 가격 괜찮은 식당 추천해줘", "intent": "recommendation_locations", "scenario": "recommendation", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.9}
+{"id": "3620", "audio": "data/eval/audio/3620.flac", "utt": "대전 지금 날씨 어때", "intent": "weather_query", "scenario": "weather", "speaker": "652aede39bf7798b707544c9", "duration": 5.22}
+{"id": "12627", "audio": "data/eval/audio/12627.flac", "utt": "열시 이전 내일 아침 대전 가는 기차 표 한 장 예매해", "intent": "transport_ticket", "scenario": "transport", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 5.22}
+{"id": "15545", "audio": "data/eval/audio/15545.flac", "utt": "이 회사에 트윗하라고 리마인드해 줘", "intent": "calendar_set", "scenario": "calendar", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.06}
+{"id": "15342", "audio": "data/eval/audio/15342.flac", "utt": "대한민국 건국일을 축하한다고 페이스북에 올려", "intent": "social_post", "scenario": "social", "speaker": "5cd875edf7470b0016e9ca83", "duration": 4.68}
+{"id": "16709", "audio": "data/eval/audio/16709.flac", "utt": "내 전화번호부에 연락처 몇 개나 있어", "intent": "email_querycontact", "scenario": "email", "speaker": "5f2dde4be81ec512f26e09e8", "duration": 6.72}
+{"id": "12854", "audio": "data/eval/audio/12854.flac", "utt": "irctc 어플 열어서 표 예약으로 이동해", "intent": "transport_ticket", "scenario": "transport", "speaker": "5cd875edf7470b0016e9ca83", "duration": 3.72}
+{"id": "13919", "audio": "data/eval/audio/13919.flac", "utt": "태양광 정원 에 관해 말해줘", "intent": "qa_definition", "scenario": "qa", "speaker": "5cd875edf7470b0016e9ca83", "duration": 2.34}
+{"id": "10844", "audio": "data/eval/audio/10844.flac", "utt": "식료품 목록에서 우유 빼줘", "intent": "lists_remove", "scenario": "lists", "speaker": "60caf58c38ce3e0f5a51f62b", "duration": 3.6}
